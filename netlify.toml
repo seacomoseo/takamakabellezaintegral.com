@@ -1,0 +1,14 @@
+[build]
+publish = "public"
+command = "sh do hugo"
+
+[build.environment]
+HUGO_VERSION = "0.147.7"
+NODE_VERSION = "23.5.0"
+
+[context.production]
+publish = "public"
+command = "sh do hugo"
+
+[[plugins]]
+  package = "netlify-plugin-hugo-cache-resources"

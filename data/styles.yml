@@ -1,0 +1,92 @@
+icons:
+  type: solid
+  sharp: true
+  emojis: false
+  play: youtube-iframe
+  up: ''
+  down: ''
+  left: ''
+  right: ''
+fonts:
+  base:
+    google: true
+    family: Montserrat
+    weight: 400
+    bold: 0
+    italic: false
+    line_height: 1.25
+  cursive:
+    google: true
+    family: Dancing Script
+    weight: 400
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+    top: 0
+  title:
+    google: true
+    family: Montserrat
+    weight: 800
+    bold: 0
+    italic: false
+    line_height: 1.25
+    size: 1
+    top: 0
+  blockquote_cursive: true
+colors:
+  main:
+    color: '#bdd5ea'
+    light: ''
+    dark: ''
+    contrast:
+      fill: false
+      in: true
+      text: true
+  alt:
+    color: ''
+    light: ''
+    dark: ''
+    contrast:
+      fill: true
+      in: true
+      text: true
+  cta:
+    color: '#fe5f55'
+    light: ''
+    dark: ''
+    contrast:
+      fill: false
+      in: true
+      text: true
+  base:
+    white: '#fff'
+    light: '#eee'
+    gray: '#767676'
+    dark: '#282525'
+    black: '#000'
+rounded:
+  radius: 0.33
+  chamfer: true
+buttons:
+  sides_round: false
+  dot_circle: false
+  deep: true
+  outline: false
+  font:
+    type: title
+    bold: false
+    caps: true
+  swap:
+    type: base
+    bold: false
+    caps: false
+inputs:
+  fill: false
+  labels_out: false
+shadow:
+  left: 0.15
+  top: 0.15
+  blur: 0
+  color: black
+  alpha: 0.85

@@ -1,0 +1,34 @@
+name: Nosotros
+title: Nosotros
+subtitle: Lorem ipsum dolor sit amet
+icon: circle-info
+box:
+  cols: 2
+boxes:
+- order: 2
+  bi: base/poster.png
+  parallax: box
+- order: 1
+  align: left
+  align_vl: right
+  align_y: center
+  md: |
+    Lorem ipsum dolor sit amet.
+    Consectetur adipiscing elit.
+    Sed do eiusmod tempor incididunt.
+    Ut labore et dolore magna aliqua.
+
+    Lorem ipsum dolor sit amet.
+    Consectetur adipiscing elit.
+    Sed do eiusmod tempor incididunt.
+    Ut labore et dolore magna aliqua.
+
+    Lorem ipsum dolor sit amet.
+    Consectetur adipiscing elit.
+    Sed do eiusmod tempor incididunt.
+    Ut labore et dolore magna aliqua.
+
+    Lorem ipsum dolor sit amet.
+    Consectetur adipiscing elit.
+    Sed do eiusmod tempor incididunt.
+    Ut labore et dolore magna aliqua.

@@ -1,0 +1,17 @@
+name: Cabecera
+hanchor: SanSoul Hugo Theme
+color: main-dark
+bi: base/poster.png
+full: true
+boxes:
+- image: base/logo.svg
+  fit: .125
+  fit_vs: .5
+- title: SanSoul Hugo Theme
+  hn: p
+  hs: 0
+  subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
+  md: |
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+    [[:plus: Más]](#nosotros)

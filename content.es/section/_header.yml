@@ -1,17 +1,18 @@
 name: Cabecera
-hanchor: SanSoul Hugo Theme
-color: main-dark
-bi: base/poster.png
+hanchor: Salón/Centro de Belleza Natural e Integral en Alcantarilla, Murcia
+color: dark
+bi: presentacion.mp4
+alpha: .5
+parallax: fix
 full: true
+space: 3
 boxes:
 - image: base/logo.svg
-  fit: .125
-  fit_vs: .5
-- title: SanSoul Hugo Theme
-  hn: p
-  hs: 0
-  subtitle: SanSoul es un tema de Hugo con alma para webs de servicios por lorensansol
+  fit: .5
+- subtitle: Cuidamos lo que te hace única
   md: |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-    [[:plus: Más]](#nosotros)
+    [[:chevron-right: Pide tu cita]](#contacto)
+    [[:plus: Tratamientos]](#tratamientos)
+- md_sm: true
+  md: |
+    :asterisk: Todos los tratamientos se harán con diagnostico previo adaptándonos a la piel y necesidad del cliente

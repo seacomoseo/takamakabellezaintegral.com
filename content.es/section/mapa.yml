@@ -5,4 +5,4 @@ ph: true
 size: fluid
 geos:
 - type: point
-  geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+  geo: '{"type":"Point","coordinates":[-1.2217262,37.9646301]}'

@@ -1,54 +1,35 @@
 name: Contacto
 title: Contacto
-subtitle: ¿En qué podemos ayudarte?
-icon: paper-plane
+# subtitle: Pide tu cita o ven a conocernos
 menu_button: cta
 box:
   cols: 2
 boxes:
 - dots:
-  - link: https://www.facebook.com/QuantumFracture
-  - link: https://www.instagram.com/quantumfracture/
-  - link: https://www.youtube.com/channel/UCbdSYaPD-lr1kW27UJuk8Pw
-  - link: https://twitter.com/QuantumFracture
-  - link: https://www.linkedin.com/company/quantum-fracture
-  - link: https://github.com/lorensansol
-  - link: https://mastersoflol.com/collections/quantumfracture?YTC
+  - link: https://www.facebook.com/takamakanaturalbeauty/
+  - link: https://www.instagram.com/takamaka_belleza_natural/
+  - link: https://g.page/takamakanaturalbeauty
   contact:
   - type: schedule
     days: Lunes a Viernes
-    hours: 9:00 - 12:30 y 14:30 - 20:00
+    hours: 9:00 - 21:00
+    full: true
+  - type: schedule
+    days: Sábados
+    hours: 09:00 - 14:00
     full: true
   - type: phone
-    label: 111 222 333
+    label: 626 05 38 53
   - type: whatsapp
-    label: 111 222 333
+    label: 626 05 38 53
     button: cta
   - type: mail
-    label: info@sansoul.es
+    label: info@takamakabellezaintegral.com
     full: true
   - type: address
-    label: Ronda de Levante, 1, 30008 Murcia
-    anchor: Sea Como SEO, Ronda de Levante, 1, 30008 Murcia
-  form:
-    email: sansoul@seacomoseo.com
-  inputs:
-  - type: text
-    name: Nombre
-    icon: user
-    required: true
-  - type: tel
-    name: Teléfono
-    icon: phone
-  - type: email
-    name: Email
-    icon: envelope
-    required: true
-  - type: textarea
-    name: Mensaje
-    icon: message
-    required: true
+    label: Calle Mayor, 239, 30820 Alcantarilla, Murcia
+    anchor: https://g.page/takamakanaturalbeauty
 - geos:
   - type: point
-    geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-  rate: 1/1
+    geo: '{"type":"Point","coordinates":[-1.2217262,37.9646301]}'
+  rate: 2/1

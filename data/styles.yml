@@ -1,5 +1,5 @@
 icons:
-  type: solid
+  type: light
   sharp: true
   emojis: false
   play: youtube-iframe
@@ -9,25 +9,25 @@ icons:
   right: ''
 fonts:
   base:
-    google: true
-    family: Montserrat
-    weight: 400
+    google: false
+    family: Alexandria
+    weight: 300
     bold: 0
     italic: false
     line_height: 1.25
   cursive:
-    google: true
-    family: Dancing Script
-    weight: 400
+    google: false
+    family: Alexandria
+    weight: 300
     bold: 0
     italic: false
     line_height: 1.25
     size: 1
     top: 0
   title:
-    google: true
-    family: Montserrat
-    weight: 800
+    google: false
+    family: Alexandria
+    weight: 300
     bold: 0
     italic: false
     line_height: 1.25
@@ -36,7 +36,7 @@ fonts:
   blockquote_cursive: true
 colors:
   main:
-    color: '#bdd5ea'
+    color: '#b8956a'
     light: ''
     dark: ''
     contrast:
@@ -52,7 +52,7 @@ colors:
       in: true
       text: true
   cta:
-    color: '#fe5f55'
+    color: ''
     light: ''
     dark: ''
     contrast:
@@ -66,13 +66,13 @@ colors:
     dark: '#282525'
     black: '#000'
 rounded:
-  radius: 0.33
-  chamfer: true
+  radius: 0
+  chamfer: false
 buttons:
   sides_round: false
   dot_circle: false
-  deep: true
-  outline: false
+  deep: false
+  outline: true
   font:
     type: title
     bold: false
@@ -85,8 +85,8 @@ inputs:
   fill: false
   labels_out: false
 shadow:
-  left: 0.15
-  top: 0.15
+  left: 0
+  top: 0
   blur: 0
   color: black
   alpha: 0.85

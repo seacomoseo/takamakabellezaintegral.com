@@ -2,7 +2,7 @@ title: Todas
 tpl:
   toc: true
   bg:
-    color: light
+    color: white
   menu:
     logo: true
     logo_align: center
@@ -10,8 +10,18 @@ tpl:
     size: sm
     es:
       image: base/logo.svg
-      title: SanSoul
-      subtitle: Hugo Theme
+      items:
+      - label: Inicio
+        link: /
+      - label: Características
+        link: /#caracteristicas
+      - label: Terapias
+        link: /#terapias
+      - label: Opiniones
+        link: /#opiniones
+      - label: Contacto
+        link: /#contacto
+        button: cta
   callnow: {}
   section:
   - size: sm

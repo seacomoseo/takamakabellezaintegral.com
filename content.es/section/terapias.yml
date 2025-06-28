@@ -1,0 +1,9 @@
+name: Terapias
+title: Terapias
+# subtitle: Lo que hacemos
+list:
+  type: service
+  max: 12
+box:
+  cols: 4
+  slider: true

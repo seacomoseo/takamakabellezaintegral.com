@@ -1,0 +1,32 @@
+name: Características
+title: Características
+# subtitle: ¿Por qué elegir Takamaka?
+box:
+  cols: 4
+  gap: 2
+  # align: left
+  icon_size: 3
+  hs: 5
+  line: true
+boxes:
+- icon: waveform-lines
+  title: Tecnología estética de vanguardia
+  md: Contamos con aparatología de última generación como Indiba, Zionic, LPG, CACI, Electropen, ProFacial, entre otros, para resultados visibles y seguros.
+- icon: fingerprint
+  title: Protocolos personalizados
+  md: No hay dos pieles ni cuerpos iguales. Cada tratamiento se adapta a las necesidades reales de cada persona, con diagnóstico previo.
+- icon: spa
+  title: Enfoque integral belleza + bienestar
+  md: Combinamos lo mejor de la estética avanzada con técnicas manuales como maderoterapia, drenaje Renata França y masajes sensoriales.
+- icon: star
+  title: Resultados visibles sin perder el disfrute
+  md: Buscamos eficacia, pero sin renunciar al mimo. Tratamientos eficaces, pero con una experiencia cuidada, estética y relajante.
+- icon: gem
+  title: Uso de marcas cosméticas premium
+  md: Seleccionamos marcas cosméticas de élite, formuladas con activos de alta pureza y aval clínico, para garantizar resultados eficaces y seguros en cada tratamiento.
+- icon: couch
+  title: Ambiente elegante, profesional y acogedor.
+  md: Un espacio donde cuidarte se convierte en ritual. Atención cercana, estética cuidada y una experiencia que apetece repetir.
+- icon: hand-holding-heart
+  title: Compromiso con la piel sana, real y cuidada
+  md: No prometemos milagros. Prometemos cuidar lo que te hace única, con honestidad y excelencia.

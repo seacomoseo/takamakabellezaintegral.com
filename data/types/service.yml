@@ -4,6 +4,7 @@ order: 1
 icon: yin-yang
 emoji: ☯️
 related: true
+
 tpl:
   callnow:
     show: auto
@@ -22,6 +23,7 @@ tpl:
     fade_type: linear-t
     shade: false
     price: hide
+
 es:
   permalinks: tratamiento
   slug: tratamientos
@@ -31,3 +33,8 @@ es:
   # seo: null # string
   # description: null # string
   # content: null # string block
+
+params:
+- var: BOX_MD
+  name: rates
+  label: Tarifas

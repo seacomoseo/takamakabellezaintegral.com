@@ -12,7 +12,7 @@ fonts:
     google: false
     family: Alexandria
     weight: 300
-    bold: 0
+    bold: 500
     italic: false
     line_height: 1.25
   cursive:
@@ -28,7 +28,7 @@ fonts:
     google: false
     family: Alexandria
     weight: 300
-    bold: 0
+    bold: 500
     italic: false
     line_height: 1.25
     size: 1
@@ -54,7 +54,7 @@ colors:
   cta:
     color: ''
     light: ''
-    dark: ''
+    dark: '#916f45'
     contrast:
       fill: false
       in: true

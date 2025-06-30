@@ -1,4 +1,6 @@
 footer:
-  # color: dark
-  # div: curve-side
-  dots: []
+  dots:
+    - link: https://www.facebook.com/takamakanaturalbeauty/
+    - link: https://www.instagram.com/takamaka_belleza_natural/
+    - link: https://g.page/takamakanaturalbeauty
+  

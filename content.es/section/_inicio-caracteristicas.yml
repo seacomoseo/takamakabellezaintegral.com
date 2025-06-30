@@ -1,4 +1,4 @@
-name: Características
+name: Inicio ➡️ Características
 title: Características
 # subtitle: ¿Por qué elegir Takamaka?
 box:
@@ -25,7 +25,7 @@ boxes:
   title: Uso de marcas cosméticas premium
   md: Seleccionamos marcas cosméticas de élite, formuladas con activos de alta pureza y aval clínico, para garantizar resultados eficaces y seguros en cada tratamiento.
 - icon: couch
-  title: Ambiente elegante, profesional y acogedor.
+  title: Ambiente elegante, profesional y acogedor
   md: Un espacio donde cuidarte se convierte en ritual. Atención cercana, estética cuidada y una experiencia que apetece repetir.
 - icon: hand-holding-heart
   title: Compromiso con la piel sana, real y cuidada

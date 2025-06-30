@@ -1,4 +1,4 @@
-name: Cabecera
+name: Inicio ➡️ Cabecera
 hanchor: Salón/Centro de Belleza Natural e Integral en Alcantarilla, Murcia
 color: dark
 bi: presentacion.mp4
@@ -7,7 +7,7 @@ parallax: fix
 full: true
 space: 3
 boxes:
-- image: base/logo.svg
+- image: base/logo-animation.svg
   fit: .5
 - subtitle: Cuidamos lo que te hace única
   md: |

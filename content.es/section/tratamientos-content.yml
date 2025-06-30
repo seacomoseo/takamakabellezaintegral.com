@@ -1,0 +1,16 @@
+name: Tratamientos ➡️ Contenidos
+node: div
+if: content
+id: content
+pt: 0
+box:
+  gap: 2
+  align: left
+boxes:
+- if: content
+  md: '{{% content %}}'
+  md_nav: false
+  md_index: false
+- if: rates
+  title: Tarifas
+  md: '{{% param rates %}}'

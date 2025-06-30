@@ -1,15 +1,11 @@
-name: Contacto
+name: Inicio ➡️ Contacto
 title: Contacto
 # subtitle: Pide tu cita o ven a conocernos
 menu_button: cta
 box:
   cols: 2
 boxes:
-- dots:
-  - link: https://www.facebook.com/takamakanaturalbeauty/
-  - link: https://www.instagram.com/takamaka_belleza_natural/
-  - link: https://g.page/takamakanaturalbeauty
-  contact:
+- contact:
   - type: schedule
     days: Lunes a Viernes
     hours: 9:00 - 21:00
@@ -32,4 +28,5 @@ boxes:
 - geos:
   - type: point
     geo: '{"type":"Point","coordinates":[-1.2217262,37.9646301]}'
-  rate: 2/1
+  rate: 3/1
+  

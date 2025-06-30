@@ -1,3 +1,33 @@
-title: Servicios
+title: Tratamientos
 base: service
 order: 1
+icon: yin-yang
+emoji: ☯️
+related: true
+tpl:
+  callnow:
+    show: auto
+  sections:
+  - file: base/_header
+  - file: tratamientos-content
+  - file: tratamientos-cita
+  - file: base/social
+  - file: base/share
+  - file: base/related
+  list:
+    rate: 1
+    card: true
+    color: dark
+    fade: main
+    fade_type: linear-t
+    shade: false
+    price: hide
+es:
+  permalinks: tratamiento
+  slug: tratamientos
+  singular: Tratamiento
+  title: Tratamientos
+  # image: null # string image path
+  # seo: null # string
+  # description: null # string
+  # content: null # string block

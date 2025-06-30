@@ -22,10 +22,8 @@ tpl:
       - label: Contacto
         link: /#contacto
         button: cta
-  callnow: {}
   section:
   - size: sm
-  modal: {}
   sections:
   - file: base/_header
   - file: base/toc

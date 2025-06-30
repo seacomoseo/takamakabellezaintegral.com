@@ -1,0 +1,28 @@
+title: Categorías
+base: page
+order: 2
+tax_of:
+- name: service
+  multiple: true
+  breadcrumbs: true
+- name: category
+  multiple: true
+  breadcrumbs: true
+tpl:
+  callnow:
+    show: auto
+  sections:
+  - file: base/_header
+  - file: tratamientos-content
+  - file: base/social
+  - file: base/children
+  - file: tratamientos-cita
+  - file: base/share
+  - file: base/related
+  list:
+    align: center
+    hs: 4
+    line: true
+    icon: ''
+    button: ''
+    label: Ver

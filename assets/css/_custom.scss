@@ -1,11 +1,27 @@
-// Header 
-@mixin show-from($delay) {
-  animation: show-from .5s (.5 + .25s * $delay) both;
+// Header
+@keyframes logo-intro {
+  0% {
+    transform: translateY(var(--logo-y, 7.5em)) scale(var(--logo-s, 1));
+  }
+  100% {
+    transform: none;
+  }
 }
 #body-home #header {
-  .image svg   { --main: #{ $white }; }
-  .image       { @include show-from(0); --show-from: scale(3); }
-  .subtitle    { @include show-from(1); }
-  .md .buttons { @include show-from(2); margin-top: 0;}
-  .md p        { @include show-from(3); }
+  .image {
+    animation: logo-intro .5s 1s both;
+    @media (min-width: $viewport-lg) {
+      --logo-y: 5em;
+      --logo-s: 2;
+    }
+    svg {
+      --main: #{ $white };
+    }
+  }
+  @mixin show-from($delay) {
+    animation: show-from .5s (1.25 + .125s * $delay) both;
+  }
+  .subtitle    { @include show-from(0); }
+  .md .buttons { @include show-from(1); margin-top: 0;}
+  .md p        { @include show-from(2); }
 }

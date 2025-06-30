@@ -1,0 +1,11 @@
+name: Inicio ➡️ Tratamientos
+title: Tratamientos
+# subtitle: Lo que hacemos
+list:
+  type: category
+box:
+  cols: 5
+  cols_vs: 2
+  icon_size: 4
+  line: false
+  md: hide

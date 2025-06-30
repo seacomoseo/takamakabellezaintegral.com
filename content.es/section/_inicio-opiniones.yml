@@ -3,7 +3,9 @@ title: Opiniones
 # subtitle: Dicen por ahí...
 review:
   cols: 3
-  # color: white
+  color: white
+  fade: main-light
+  fade_type: linear-b
   slider: true
   time: 8
 reviews:

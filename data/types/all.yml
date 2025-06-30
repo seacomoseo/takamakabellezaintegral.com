@@ -15,8 +15,8 @@ tpl:
         link: /
       - label: Características
         link: /#caracteristicas
-      - label: Terapias
-        link: /#terapias
+      - label: Tratamientos
+        link: /#tratamientos
       - label: Opiniones
         link: /#opiniones
       - label: Contacto

@@ -1,6 +1,6 @@
 title: Categorías
 base: page
-order: 2
+weight: 2
 tax_of:
 - name: service
   multiple: true
@@ -9,20 +9,21 @@ tax_of:
   multiple: true
   breadcrumbs: true
 tpl:
-  callnow:
-    show: auto
+  callnow: auto
   sections:
-  - file: base/_header
+  - file: base-_header
   - file: tratamientos-content
-  - file: base/social
-  - file: base/children
+  - file: base-social
+  - file: base-children
   - file: tratamientos-cita
-  - file: base/share
-  - file: base/related
+  - file: base-share
+  - file: base-related
   list:
-    align: center
-    hs: 4
-    line: true
-    icon: ''
-    button: ''
-    label: Ver
+    rate: 1
+    card: true
+    color: dark
+    fade: main
+    fade_type: linear-t
+    shade: false
+    icon: hide
+    price: hide

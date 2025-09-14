@@ -7,39 +7,24 @@ tpl:
     logo_align: center
     transparent: true
     size: sm
-    es:
-      image: base/logo.svg
-      items:
-      - label: Inicio
-        link: /
-      - label: Características
-        link: /#caracteristicas
-      - label: Tratamientos
-        link: /#tratamientos
-      - label: Opiniones
-        link: /#opiniones
-      - label: Contacto
-        link: /#contacto
-        button: cta
   section:
   - size: sm
   sections:
-  - file: base/_header
-  - file: base/toc
-  - file: base/content
-  - file: base/address
-  - file: base/author
-  - file: base/social
-  - file: base/comments
-  - file: base/children
-  - file: base/share
-  - file: base/related
+  - file: base-_header
+  - file: base-toc
+  - file: base-content
+  - file: base-address
+  - file: base-author
+  - file: base-social
+  - file: base-comments
+  - file: base-children
+  - file: base-share
+  - file: base-related
   list:
     cols: 3
     color: white
-    icon: hide
     shade: true
-    ratio: 16/9
+    ratio: 3/2
     inset: true
     align: left
     button: hide

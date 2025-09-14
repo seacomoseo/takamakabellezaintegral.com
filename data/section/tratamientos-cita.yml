@@ -1,0 +1,8 @@
+name: Tratamientos ➡️ Pide tu cita
+node: div
+id: cita
+pt: 0
+link: /#contacto
+label: Pide tu cita
+pin: chevron_right
+

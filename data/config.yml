@@ -5,5 +5,11 @@ langs:
   google_analytics: G-F577HLPQWX
 cms:
   logo: base/logo.svg
+defaults:
+- name: ratio
+  value: 3/2
+  path:
+  - /category/*
+  - /service/*
 others:
   show: true

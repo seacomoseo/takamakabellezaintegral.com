@@ -1,13 +1,12 @@
 title: Únicas
-order: 0
+weight: 0
 base: single
 tpl:
   menu:
     logo: false
     sticky: auto
-    size: ''
-  callnow:
-    show: auto
+    size: lg
+  callnow: auto
   section:
   - size: lg
     line: true

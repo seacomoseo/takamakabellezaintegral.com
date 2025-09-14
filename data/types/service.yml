@@ -1,20 +1,18 @@
 title: Tratamientos
 base: service
-order: 1
-icon: yin-yang
+weight: 1
+icon: health_and_beauty
 emoji: ☯️
 related: true
-
 tpl:
-  callnow:
-    show: auto
+  callnow: auto
   sections:
-  - file: base/_header
+  - file: base-_header
   - file: tratamientos-content
   - file: tratamientos-cita
-  - file: base/social
-  - file: base/share
-  - file: base/related
+  - file: base-social
+  - file: base-share
+  - file: base-related
   list:
     rate: 1
     card: true
@@ -22,19 +20,14 @@ tpl:
     fade: main
     fade_type: linear-t
     shade: false
+    icon: hide
     price: hide
-
 es:
   permalinks: tratamiento
   slug: tratamientos
   singular: Tratamiento
   title: Tratamientos
-  # image: null # string image path
-  # seo: null # string
-  # description: null # string
-  # content: null # string block
-
 params:
-- var: BOX_MD
+- var: box_md
   name: rates
   label: Tarifas

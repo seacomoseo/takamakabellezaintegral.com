@@ -1,22 +1,18 @@
 icons:
-  type: light
-  sharp: true
-  emojis: false
+  fill: false
+  weight: 300
+  grade: 0
+  optical: 24
+  style: sharp
   play: youtube-iframe
-  up: ''
-  down: ''
-  left: ''
-  right: ''
 fonts:
   base:
-    google: false
     family: Alexandria
     weight: 300
     bold: 500
     italic: false
     line_height: 1.25
   cursive:
-    google: false
     family: Alexandria
     weight: 300
     bold: 0
@@ -25,7 +21,6 @@ fonts:
     size: 1
     top: 0
   title:
-    google: false
     family: Alexandria
     weight: 300
     bold: 500

@@ -1,0 +1,20 @@
+title: Valores Globales
+menu:
+  image: base/logo.svg
+  items:
+  - label: Inicio
+    link: /
+  - label: Características
+    link: /#caracteristicas
+  - label: Tratamientos
+    link: /#tratamientos
+  - label: Opiniones
+    link: /#opiniones
+  - label: Contacto
+    link: /#contacto
+    button: cta
+footer:
+  dots:
+  - link: https://www.facebook.com/takamakanaturalbeauty/
+  - link: https://www.instagram.com/takamaka_belleza_natural/
+  - link: https://g.page/takamakanaturalbeauty

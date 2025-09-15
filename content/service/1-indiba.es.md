@@ -17,7 +17,7 @@ rates: |
   - **FACIAL**
     - Sesión suelta: 60€
     - Bono 3 sesiones: 140€
-    - :asterisk: Opción de ampliar el bono
+    - ::asterisk:: Opción de ampliar el bono
   - **CORPORAL**
     - Bono 8 sesiones: 360€
     - Bono 10 sesiones: 450€

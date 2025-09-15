@@ -11,7 +11,7 @@ service_areas:
 - Murcia
 category:
 - facial
-- rituales
+- rituales-masajes
 rates: 'Precio sesión: 85€'
 seo: Hialurónico con masaje Kōbido – Takamaka
 description: Combina relleno hídrico y estimulación muscular para efecto glow inmediato.

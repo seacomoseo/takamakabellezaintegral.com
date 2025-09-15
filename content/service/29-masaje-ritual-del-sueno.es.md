@@ -10,7 +10,7 @@ service_areas:
 - Alcantarilla
 - Murcia
 category:
-- rituales
+- rituales-masajes
 rates: 'Precio: 130€'
 seo: Masaje Ritual del Sueño en Takamaka
 description: Disminuye estrés y mejora calidad del sueño con mantras táctiles y aceites de lavanda.

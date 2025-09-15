@@ -10,7 +10,7 @@ service_areas:
 - Alcantarilla
 - Murcia
 category:
-- rituales
+- rituales-masajes
 rates: 'Precio: 100€'
 seo: Masaje con Sal del Himalaya en Takamaka
 description: Equilibra minerales y reduce tensión muscular con cristales terapéuticos calentados.

@@ -10,7 +10,7 @@ service_areas:
 - Alcantarilla
 - Murcia
 category:
-- rituales
+- rituales-masajes
 - corporal
 rates: 'Precio: 40€'
 seo: Masaje exprés 30 min – Takamaka

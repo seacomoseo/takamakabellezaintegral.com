@@ -10,7 +10,7 @@ service_areas:
 - Alcantarilla
 - Murcia
 category:
-- rituales
+- rituales-masajes
 - corporal
 rates: 'Precio: 60€'
 seo: Masaje relajante 60 min – Takamaka

@@ -11,7 +11,7 @@ service_areas:
 - Murcia
 category:
 - corporal
-- rituales
+- rituales-masajes
 rates: |
   - Sesión suelta: 80€
   - Bono 3 sesiones: 180€

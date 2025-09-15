@@ -4,6 +4,8 @@ title: Facial
 summary: Tratamientos faciales de alta eficacia para limpiar, renovar e iluminar tu piel.
 image: tratamientos/facial.jpg
 icon: domino_mask
+category:
+- general
 seo: Tratamientos faciales avanzados en Takamaka Natural Beauty
 description: Descubre nuestros tratamientos faciales con tecnología y técnicas expertas para una piel luminosa, sana y rejuvenecida en Alcantarilla.
 weight: 3

@@ -11,7 +11,7 @@ service_areas:
 - Murcia
 category:
 - facial
-- rituales
+- rituales-masajes
 rates: 'Precio sesión: 50€'
 seo: Maderoterapia facial en Takamaka
 description: Suaviza líneas y mejora circulación en 30 min sin aparatología.

@@ -4,6 +4,8 @@ title: Belleza de la Mirada
 summary: Realza pestañas y cejas con laminado, lifting y diseño profesional.
 image: tratamientos/mirada.jpg
 icon: visibility
+category:
+- general
 seo: Belleza de la mirada en Takamaka Natural Beauty
 description: Potencia tu expresión con tratamientos de cejas y pestañas de larga duración y acabado natural.
 weight: 5

@@ -10,7 +10,7 @@ service_areas:
 - Alcantarilla
 - Murcia
 category:
-- rituales
+- rituales-masajes
 - corporal
 rates: 'Precio: 80€'
 seo: Ritual Piel de Seda – Takamaka

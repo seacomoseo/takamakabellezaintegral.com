@@ -11,7 +11,7 @@ service_areas:
 - Murcia
 category:
 - aparatologia
-- depilacion
+- depilacion-laser
 rates: |
   - Sesión suelta: 130€
   - Bono 3 sesiones: 300€

@@ -11,7 +11,6 @@ service_areas:
 - Murcia
 category:
 - mirada
-- depilacion
 rates: 'Precio: 25€'
 seo: Diseño de cejas y tinte – Takamaka
 description: Potencia tu expresión con color personalizado y forma equilibrada.

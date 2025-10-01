@@ -25,8 +25,13 @@ boxes:
   - type: address
     label: Calle Mayor, 239, 30820 Alcantarilla, Murcia
     anchor: https://g.page/takamakanaturalbeauty
+  - type: address
+    label: Av. Gutiérrez Mellado, 19, 30500 Molina de Segura
+    anchor: https://maps.app.goo.gl/K7XMUs8xCacQmcN59
 - geos:
   - type: point
     geo: '{"type":"Point","coordinates":[-1.2217262,37.9646301]}'
+  - type: point
+    geo: '{"type":"Point","coordinates":[-1.207897,38.062823]}'
   rate: 3/1
   

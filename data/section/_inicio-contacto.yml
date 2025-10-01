@@ -14,17 +14,28 @@ boxes:
     days: Sábados
     hours: 09:00 - 14:00
     full: true
+  - type: mail
+    label: info@takamakabellezaintegral.com
+    full: true
+
+  - type: h3
+    label: Alcantarilla
   - type: phone
     label: 626 05 38 53
   - type: whatsapp
     label: 626 05 38 53
     button: cta
-  - type: mail
-    label: info@takamakabellezaintegral.com
-    full: true
   - type: address
     label: Calle Mayor, 239, 30820 Alcantarilla, Murcia
     anchor: https://g.page/takamakanaturalbeauty
+
+  - type: h3
+    label: Molina de Segura
+  - type: phone
+    label: 623 70 07 19
+  - type: whatsapp
+    label: 623 70 07 19
+    button: cta
   - type: address
     label: Av. Gutiérrez Mellado, 19, 30500 Molina de Segura
     anchor: Takamaka Natural Beauty - Av. Gutiérrez Mellado, 19, 30500 Molina de Segura

@@ -31,7 +31,7 @@ org:
   images: []
   as:
   - https://www.facebook.com/takamakanaturalbeauty/
-  - https://www.instagram.com/quantumfracture/
+  - https://www.instagram.com/takamaka_natural_beauty/
   - https://g.page/takamakanaturalbeauty
   phones:
   - 626 05 38 53
@@ -316,5 +316,56 @@ org:
     description: Pack ahorro para eliminar vello de 3 zonas clave.
     price: 90
     area: Alcantarilla, Murcia
+departs:
+- types:
+  - BeautySalon
+  - MedicalBusiness
+  - Organization
+  names:
+  - Takamaka
+  - Takamaka Natural Beauty
+  - Belleza Natural de Takamaka
+  - Takamaka Belleza Integral
+  description: Salón/Centro de Belleza Integral en Molina de Segura, Murcia. Expertos en potenciar tu belleza natural. Tratamientos faciales, corporales y medicina estética.
+  legal: Belleza natural de Takamaka
+  nif: null
+  email: info@takamakabellezaintegral.com
+  logo: base/poster.svg
+  images: []
+  as:
+  - https://www.facebook.com/takamakanaturalbeauty/
+  - https://www.instagram.com/takamaka_natural_beauty/
+  - https://maps.google.com/maps?q=Takamaka+Natural+Beauty+-+Av.+Guti%C3%A9rrez+Mellado%2C+19%2C+30500+Molina+de+Segura
+  phones:
+  - 623 70 07 19
+  address:
+    name: Takamaka Natural Beauty
+    street: Av. Gutiérrez Mellado, 19
+    pc: '30500'
+    locality: Molina de Segura
+    region: Murcia
+    country: ES
+    geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
+    link: https://maps.google.com/maps?q=Takamaka+Natural+Beauty+-+Av.+Guti%C3%A9rrez+Mellado%2C+19%2C+30500+Molina+de+Segura
+  areas:
+  - Molina de Segura
+  - Región de Murcia
+  schedule:
+  - days:
+      mon: true
+      tue: true
+      wed: true
+      thu: true
+      fri: true
+    hours:
+    - open: 9:00
+      close: 21:00
+  - days:
+      sat: true
+    hours:
+    - open: 9:00
+      close: 14:00
+  prices: €€
+  services: []
 ---
 

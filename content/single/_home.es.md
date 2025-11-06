@@ -28,7 +28,14 @@ org:
   nif: null
   email: info@takamakabellezaintegral.com
   logo: base/poster.svg
-  images: []
+  images:
+  - presentacion.jpg
+  - presentacion-alt.jpg
+  - tratamientos/acido-hialuronico-masaje-kobido.jpg
+  - tratamientos/indiba.jpg
+  - tratamientos/masaje-60-min.jpg
+  - tratamientos/masaje-thai.jpg
+  - tratamientos/piel-de-seda.jpg
   as:
   - https://www.facebook.com/takamakanaturalbeauty/
   - https://www.instagram.com/takamaka_natural_beauty/
@@ -55,13 +62,8 @@ org:
       thu: true
       fri: true
     hours:
-    - open: 9:00
-      close: 21:00
-  - days:
-      sat: true
-    hours:
-    - open: 9:00
-      close: 14:00
+    - open: 10:00
+      close: 20:00
   prices: €€
   services:
   - title: Radiofrecuencia Indiba®
@@ -331,11 +333,18 @@ departs:
   nif: null
   email: info@takamakabellezaintegral.com
   logo: base/poster.svg
-  images: []
+  images:
+  - presentacion.jpg
+  - presentacion-alt.jpg
+  - tratamientos/acido-hialuronico-masaje-kobido.jpg
+  - tratamientos/indiba.jpg
+  - tratamientos/masaje-60-min.jpg
+  - tratamientos/masaje-thai.jpg
+  - tratamientos/piel-de-seda.jpg
   as:
   - https://www.facebook.com/takamakanaturalbeauty/
   - https://www.instagram.com/takamaka_natural_beauty/
-  - https://maps.google.com/maps?q=Takamaka+Natural+Beauty+-+Av.+Guti%C3%A9rrez+Mellado%2C+19%2C+30500+Molina+de+Segura
+  - https://g.page/r/CYuSOAZCKGDcEBM
   phones:
   - 623 70 07 19
   address:
@@ -346,7 +355,7 @@ departs:
     region: Murcia
     country: ES
     geo: '{"type":"Point","coordinates":[-1.1306520,37.9922180]}'
-    link: https://maps.google.com/maps?q=Takamaka+Natural+Beauty+-+Av.+Guti%C3%A9rrez+Mellado%2C+19%2C+30500+Molina+de+Segura
+    link: https://g.page/r/CYuSOAZCKGDcEBM
   areas:
   - Molina de Segura
   - Región de Murcia
@@ -358,14 +367,8 @@ departs:
       thu: true
       fri: true
     hours:
-    - open: 9:00
-      close: 21:00
-  - days:
-      sat: true
-    hours:
-    - open: 9:00
-      close: 14:00
+    - open: 10:00
+      close: 20:00
   prices: €€
   services: []
 ---
-

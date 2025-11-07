@@ -3,7 +3,7 @@ base: service
 weight: 1
 icon: health_and_beauty
 emoji: ☯️
-related: true
+related: y
 tpl:
   callnow: auto
   sections:
@@ -15,19 +15,10 @@ tpl:
   - file: base-related
   list:
     rate: 1
-    card: true
+    card: y
     color: dark
     fade: main
     fade_type: linear-t
-    shade: false
+    shade: n
     icon: hide
     price: hide
-es:
-  permalinks: tratamiento
-  slug: tratamientos
-  singular: Tratamiento
-  title: Tratamientos
-params:
-- var: box_md
-  name: rates
-  label: Tarifas

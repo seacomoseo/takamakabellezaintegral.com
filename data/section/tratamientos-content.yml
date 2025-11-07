@@ -9,8 +9,8 @@ box:
 boxes:
 - if: content
   md: '{{% content %}}'
-  md_nav: false
-  md_index: false
+  md_nav: n
+  md_index: n
 - if: rates
   title: Tarifas
   md: '{{% param rates %}}'

@@ -4,7 +4,7 @@ color: dark
 bi: presentacion.mp4
 alpha: .5
 parallax: fix
-full: true
+full: y
 space: 3
 boxes:
 - image: base/logo-animation.svg
@@ -13,6 +13,6 @@ boxes:
   md: |
     [[::chevron_right:: Pide tu cita]](#contacto)
     [[::add:: Tratamientos]](#tratamientos)
-- md_sm: true
+- md_sm: y
   md: |
     ::asterisk:: Todos los tratamientos se harán con diagnostico previo adaptándonos a la piel y necesidad del cliente

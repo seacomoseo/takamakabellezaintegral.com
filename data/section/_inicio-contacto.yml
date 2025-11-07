@@ -9,10 +9,10 @@ boxes:
   - type: schedule
     days: Lunes a Viernes
     hours: 10:00 - 20:00
-    full: true
+    full: y
   - type: mail
     label: info@takamakabellezaintegral.com
-    full: true
+    full: y
 
   - type: h3
     label: Alcantarilla

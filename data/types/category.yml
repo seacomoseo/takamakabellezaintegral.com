@@ -3,11 +3,11 @@ base: page
 weight: 2
 tax_of:
 - name: service
-  multiple: true
-  breadcrumbs: true
+  multiple: y
+  breadcrumbs: y
 - name: category
-  multiple: true
-  breadcrumbs: true
+  multiple: y
+  breadcrumbs: y
 tpl:
   callnow: auto
   sections:
@@ -20,10 +20,10 @@ tpl:
   - file: base-related
   list:
     rate: 3/4
-    card: true
+    card: y
     color: dark
     fade: main
     fade_type: linear-t
-    shade: false
+    shade: n
     icon: hide
     price: hide

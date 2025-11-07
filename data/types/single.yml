@@ -3,13 +3,13 @@ weight: 0
 base: single
 tpl:
   menu:
-    logo: false
+    logo: n
     sticky: auto
     size: lg
   callnow: auto
   section:
   - size: lg
-    line: true
-    caps: true
+    line: y
+    caps: y
   list:
     ratio: 1

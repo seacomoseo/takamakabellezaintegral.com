@@ -6,5 +6,5 @@ image: presentacion-alt.jpg
 icon: category
 seo: Categoría general - Takamaka Natural Beauty
 weight: -1
-noindex: true
+noindex: y
 ---

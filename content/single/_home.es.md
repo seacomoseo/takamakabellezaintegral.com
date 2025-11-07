@@ -43,7 +43,7 @@ org:
   phones:
   - 626 05 38 53
   address:
-    name: Takamaka Natural Beauty
+  - name: Takamaka Natural Beauty
     street: Calle Mayor, 239
     pc: '30820'
     locality: Alcantarilla
@@ -56,11 +56,11 @@ org:
   - Región de Murcia
   schedule:
   - days:
-      mon: true
-      tue: true
-      wed: true
-      thu: true
-      fri: true
+      mon: y
+      tue: y
+      wed: y
+      thu: y
+      fri: y
     hours:
     - open: 10:00
       close: 20:00
@@ -348,7 +348,7 @@ departs:
   phones:
   - 623 70 07 19
   address:
-    name: Takamaka Natural Beauty
+  - name: Takamaka Natural Beauty
     street: Av. Gutiérrez Mellado, 19
     pc: '30500'
     locality: Molina de Segura
@@ -361,11 +361,11 @@ departs:
   - Región de Murcia
   schedule:
   - days:
-      mon: true
-      tue: true
-      wed: true
-      thu: true
-      fri: true
+      mon: y
+      tue: y
+      wed: y
+      thu: y
+      fri: y
     hours:
     - open: 10:00
       close: 20:00

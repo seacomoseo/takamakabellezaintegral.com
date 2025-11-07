@@ -6,7 +6,7 @@ review:
   color: white
   fade: main-light
   fade_type: linear-b
-  slider: true
+  slider: y
   time: 8
 reviews:
 - title: Pilar A.

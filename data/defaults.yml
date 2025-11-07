@@ -1,0 +1,5 @@
+- name: ratio
+  value: 3/2
+  path:
+  - /category/*
+  - /service/*

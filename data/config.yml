@@ -1,15 +1,3 @@
-langs:
-- lang: es
-  title: Takamaka Natural Beauty
-  description: Salón/Centro de Belleza Integral en Alcantarilla, Murcia. Expertos en potenciar tu belleza natural. Tratamientos faciales, corporales y medicina estética.
-  google_analytics: G-F577HLPQWX
-cms:
-  logo: base/logo.svg
-defaults:
-- name: ratio
-  value: 3/2
-  path:
-  - /category/*
-  - /service/*
-others:
-  show: true
+google_analytics: G-F577HLPQWX
+cms_logo: base/logo.svg
+show: y

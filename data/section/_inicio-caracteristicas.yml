@@ -7,7 +7,7 @@ box:
   # align: left
   icon_size: 3
   hs: 5
-  line: true
+  line: y
 boxes:
 - icon: graphic_eq
   title: Tecnología estética de vanguardia

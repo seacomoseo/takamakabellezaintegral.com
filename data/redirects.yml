@@ -1,0 +1,16 @@
+
+- { from: /categoria/rituales/ , to: /categoria/rituales-masajes/ }
+- { from: /tratamiento/microneedling/ , to: /tratamiento/microneedling-dermapen/ }
+- { from: /tratamiento/renata-franca/ , to: /tratamiento/drenaje-renata-franca/ }
+- { from: /tratamiento/peeling/ , to: /tratamiento/peeling-quimico/ }
+- { from: /tratamiento/hialuronico-kobido/ , to: /tratamiento/acido-hialuronico-masaje-kobido/ }
+- { from: /tratamiento/decoraciones/ , to: /tratamiento/decoraciones-nail-art/ }
+- { from: /tratamiento/cejas-pinz/ , to: /tratamiento/cejas-pinzas/ }
+- { from: /tratamiento/sal-del-himalaya/ , to: /tratamiento/masaje-sal-himalaya/ }
+- { from: /tratamiento/ritual-del-sueno/ , to: /tratamiento/masaje-ritual-del-sueno/ }
+- { from: /tratamiento/cejas-hilo/ , to: /tratamiento/depilacion-cejas-hilo/ }
+- { from: /tratamiento/cejas-pinzas/ , to: /tratamiento/depilacion-cejas-pinzas/ }
+- { from: /tratamiento/labio-superior-hilo/ , to: /tratamiento/depilacion-labio-superior-hilo/ }
+- { from: /tratamiento/labio-superior-cera/ , to: /tratamiento/depilacion-labio-superior-cera/ }
+- { from: /tratamiento/cara-completa-hilo/ , to: /tratamiento/depilacion-cara-completa-hilo/ }
+- { from: /tratamiento/labio-menton-cejas/ , to: /tratamiento/depilacion-labio-menton-cejas/ }

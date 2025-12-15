@@ -8,6 +8,7 @@ service_types:
 - Ondas de choque + Presoterapia
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - aparatologia

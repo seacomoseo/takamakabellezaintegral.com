@@ -8,6 +8,7 @@ service_types:
 - Masaje 30 min
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - rituales-masajes

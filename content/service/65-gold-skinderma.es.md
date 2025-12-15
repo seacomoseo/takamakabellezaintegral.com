@@ -8,13 +8,14 @@ service_types:
 - Gold de Skinderma
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial
 rates: 'Precio: 100€'
 seo: Gold de Skinderma – Takamaka
 description: Experiencia facial de lujo para revitalizar la piel y devolverle su luminosidad y firmeza natural.
-weight: 64
+weight: 65
 ---
 
 El **tratamiento Gold de Skinderma** es una experiencia facial de lujo que combina activos iluminadores y reafirmantes con una fórmula rica en **oro cosmético** para **revitalizar la piel** y devolverle su **luminosidad y firmeza** natural.

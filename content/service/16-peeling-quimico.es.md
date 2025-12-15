@@ -8,6 +8,7 @@ service_types:
 - Peeling químico AHA 30 %
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial

@@ -8,6 +8,7 @@ service_types:
 - Tratamiento específico contorno de ojos
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial

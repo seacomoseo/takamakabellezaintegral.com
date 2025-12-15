@@ -8,6 +8,7 @@ service_types:
 - Depilación de cejas con hilo
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - depilacion-cera-hilo

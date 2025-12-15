@@ -8,6 +8,7 @@ service_types:
 - Decoraciones nail art
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - manos-pies

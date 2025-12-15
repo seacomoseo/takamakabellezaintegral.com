@@ -8,6 +8,7 @@ service_types:
 - Maderoterapia corporal
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - corporal

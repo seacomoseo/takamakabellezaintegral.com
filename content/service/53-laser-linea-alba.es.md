@@ -8,6 +8,7 @@ service_types:
 - Láser línea alba
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - depilacion-laser

@@ -8,6 +8,7 @@ service_types:
 - Depilación labio superior cera
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - depilacion-cera-hilo

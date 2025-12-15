@@ -8,6 +8,7 @@ service_types:
 - Lifting y laminado de cejas
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - mirada

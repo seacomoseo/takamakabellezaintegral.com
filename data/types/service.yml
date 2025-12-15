@@ -3,6 +3,7 @@ base: service
 weight: 1
 icon: health_and_beauty
 emoji: ☯️
+body: y
 related: y
 tpl:
   callnow: auto

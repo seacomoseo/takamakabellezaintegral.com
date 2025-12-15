@@ -8,6 +8,7 @@ service_types:
 - Laminado de pestañas
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - mirada

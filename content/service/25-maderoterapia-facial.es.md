@@ -8,6 +8,7 @@ service_types:
 - Maderoterapia facial
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial

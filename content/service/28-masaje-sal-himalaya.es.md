@@ -8,6 +8,7 @@ service_types:
 - Masaje con Sal del Himalaya
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - rituales-masajes

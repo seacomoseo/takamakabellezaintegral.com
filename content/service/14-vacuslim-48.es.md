@@ -8,6 +8,7 @@ service_types:
 - VacuSlim 48
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - corporal

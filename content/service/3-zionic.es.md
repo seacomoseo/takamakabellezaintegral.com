@@ -8,6 +8,7 @@ service_types:
 - Zionic® Slim & Shape
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - aparatologia

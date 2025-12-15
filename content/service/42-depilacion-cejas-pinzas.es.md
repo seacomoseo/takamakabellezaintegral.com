@@ -8,6 +8,7 @@ service_types:
 - Depilación de cejas con pinzas
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - depilacion-cera-hilo

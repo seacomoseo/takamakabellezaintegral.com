@@ -8,6 +8,7 @@ service_types:
 - Remedy piel sensible
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial

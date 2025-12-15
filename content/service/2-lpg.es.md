@@ -8,6 +8,7 @@ service_types:
 - LPG Endermologie®
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - aparatologia

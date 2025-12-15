@@ -8,6 +8,7 @@ service_types:
 - Radiofrecuencia Indiba®
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - aparatologia

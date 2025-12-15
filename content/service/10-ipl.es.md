@@ -8,6 +8,7 @@ service_types:
 - IPL Fotodepilación
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - aparatologia

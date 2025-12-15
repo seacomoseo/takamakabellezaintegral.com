@@ -8,6 +8,7 @@ service_types:
 - Skin Regimen – Superhéroe Detox
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial

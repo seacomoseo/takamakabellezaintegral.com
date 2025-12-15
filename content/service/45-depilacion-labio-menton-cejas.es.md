@@ -8,6 +8,7 @@ service_types:
 - Labio + mentón + cejas
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - depilacion-cera-hilo

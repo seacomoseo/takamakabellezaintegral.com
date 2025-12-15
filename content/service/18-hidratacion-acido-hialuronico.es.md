@@ -8,6 +8,7 @@ service_types:
 - Hidratación ácido hialurónico
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial

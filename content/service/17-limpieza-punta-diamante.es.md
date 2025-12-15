@@ -8,6 +8,7 @@ service_types:
 - Limpieza facial punta de diamante
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial

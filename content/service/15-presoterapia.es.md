@@ -8,6 +8,7 @@ service_types:
 - Presoterapia secuencial
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - corporal

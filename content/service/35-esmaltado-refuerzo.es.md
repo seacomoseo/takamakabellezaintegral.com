@@ -8,6 +8,7 @@ service_types:
 - Esmaltado con refuerzo
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - manos-pies

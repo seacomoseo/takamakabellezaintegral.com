@@ -8,6 +8,7 @@ service_types:
 - Diseño de cejas con tinte
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - mirada

@@ -8,6 +8,7 @@ service_types:
 - Piel de Seda
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - rituales-masajes

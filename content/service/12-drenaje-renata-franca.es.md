@@ -8,6 +8,7 @@ service_types:
 - Drenaje Renata França
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - corporal

@@ -8,6 +8,7 @@ service_types:
 - Láser brazos completos
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - depilacion-laser

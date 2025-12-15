@@ -8,6 +8,7 @@ service_types:
 - Tratamiento iluminante
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial

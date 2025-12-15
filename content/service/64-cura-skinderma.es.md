@@ -8,6 +8,7 @@ service_types:
 - La Cura de Skinderma
 service_areas:
 - Alcantarilla
+- Molina de Segura
 - Murcia
 category:
 - facial

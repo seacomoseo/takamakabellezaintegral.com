@@ -1,8 +1,8 @@
 ---
 slug: microneedling-dermapen
 title: Microneedling Dermapen
-summary: Micro-punciones que estimulan síntesis de colágeno y elastina.
-image: tratamientos/microneedling-dermapen.jpg
+sum: Micro-punciones que estimulan síntesis de colágeno y elastina.
+img: /u/tratamientos/microneedling-dermapen.jpg
 price: 95
 service_types:
 - Microneedling Dermapen
@@ -16,8 +16,9 @@ category:
 rates: |
   - Sesión suelta: 95€
   - Bono 3 sesiones: 252€
-seo: Microneedling Facial Dermapen en Takamaka
-description: Minimiza cicatrices, arrugas y poros con dispositivos de microagujas y cócteles estériles.
+seo:
+  title: Microneedling Facial Dermapen en Takamaka
+  desc: Minimiza cicatrices, arrugas y poros con dispositivos de microagujas y cócteles estériles.
 weight: 6
 ---
 

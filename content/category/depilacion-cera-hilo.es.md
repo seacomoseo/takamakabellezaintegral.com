@@ -1,13 +1,14 @@
 ---
 slug: depilacion-cera-hilo
 title: Depilación con Cera e Hilo
-summary: Cera tibia e hilo orgánico para depilar rostro y cuerpo sin láser, de forma suave y precisa.
-image: tratamientos/depilacion-cera-hilo.jpg
+sum: Cera tibia e hilo orgánico para depilar rostro y cuerpo sin láser, de forma suave y precisa.
+img: /u/tratamientos/depilacion-cera-hilo.jpg
 icon: cleaning_services
 category:
 - depilacion
-seo: Depilación con cera e hilo en Takamaka Natural Beauty
-description: Elige depilación con cera hipoalergénica o hilo orgánico para una piel suave y cuidada, sin recurrir al láser.
+seo:
+  title: Depilación con cera e hilo en Takamaka Natural Beauty
+  desc: Elige depilación con cera hipoalergénica o hilo orgánico para una piel suave y cuidada, sin recurrir al láser.
 weight: 9
 ---
 

@@ -3,14 +3,15 @@ node: div
 if: content
 id: content
 pt: 0
-box:
-  gap: 2
-  align: left
 boxes:
-- if: content
-  md: '{{% content %}}'
-  md_nav: n
-  md_index: n
-- if: rates
-  title: Tarifas
-  md: '{{% param rates %}}'
+- box:
+    gap: 2
+    align: left
+  boxes:
+  - if: content
+    md: '{{% content %}}'
+    md_nav: n
+    md_index: n
+  - if: rates
+    title: Tarifas
+    md: '{{% get rates %}}'

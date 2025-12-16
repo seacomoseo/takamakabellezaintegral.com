@@ -1,13 +1,14 @@
 ---
 slug: depilacion-laser
 title: Depilación Láser
-summary: Láser médico de diodo e IPL para eliminar vello de forma duradera y segura.
-image: tratamientos/depilacion-laser.jpg
+sum: Láser médico de diodo e IPL para eliminar vello de forma duradera y segura.
+img: /u/tratamientos/depilacion-laser.jpg
 icon: bolt
 category:
 - depilacion
-seo: Depilación láser diodo e IPL en Takamaka Natural Beauty
-description: Olvídate del vello con depilación láser médica personalizada en función de tu fototipo y zona a tratar.
+seo:
+  title: Depilación láser diodo e IPL en Takamaka Natural Beauty
+  desc: Olvídate del vello con depilación láser médica personalizada en función de tu fototipo y zona a tratar.
 weight: 8
 ---
 

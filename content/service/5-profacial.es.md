@@ -1,8 +1,8 @@
 ---
 slug: profacial
 title: ProFacial™
-summary: Hidrodermoabrasión 6-en-1 para limpieza, peeling y nutrición profunda.
-image: tratamientos/profacial.jpg
+sum: Hidrodermoabrasión 6-en-1 para limpieza, peeling y nutrición profunda.
+img: /u/tratamientos/profacial.jpg
 price: 80
 service_types:
 - ProFacial™
@@ -14,8 +14,9 @@ category:
 - aparatologia
 - facial
 rates: 'Precio sesión: 80€'
-seo: ProFacial en Takamaka Natural Beauty
-description: Renueva tu piel sin irritación con succión controlada y activos concentrados en una sola sesión.
+seo:
+  title: ProFacial en Takamaka Natural Beauty
+  desc: Renueva tu piel sin irritación con succión controlada y activos concentrados en una sola sesión.
 weight: 5
 ---
 

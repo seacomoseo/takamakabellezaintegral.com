@@ -1,8 +1,8 @@
 ---
 slug: piel-de-seda
 title: Piel de Seda
-summary: Exfoliación + hidratación profunda para tacto ultrasuave y glow inmediato.
-image: tratamientos/piel-de-seda.jpg
+sum: Exfoliación + hidratación profunda para tacto ultrasuave y glow inmediato.
+img: /u/tratamientos/piel-de-seda.jpg
 price: 80
 service_types:
 - Piel de Seda
@@ -14,8 +14,9 @@ category:
 - rituales-masajes
 - corporal
 rates: 'Precio: 80€'
-seo: Ritual Piel de Seda – Takamaka
-description: Elimina células muertas y sella humedad con mantecas nutritivas aromáticas.
+seo:
+  title: Ritual Piel de Seda – Takamaka
+  desc: Elimina células muertas y sella humedad con mantecas nutritivas aromáticas.
 weight: 27
 ---
 

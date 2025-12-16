@@ -1,13 +1,14 @@
 ---
 slug: corporal
 title: Corporal
-summary: Radiofrecuencia, drenaje y técnicas remodelantes para esculpir tu cuerpo con seguridad.
-image: tratamientos/corporal.jpg
+sum: Radiofrecuencia, drenaje y técnicas remodelantes para esculpir tu cuerpo con seguridad.
+img: /u/tratamientos/corporal.jpg
 icon: woman
 category:
 - general
-seo: Tratamientos corporales avanzados en Takamaka Natural Beauty
-description: Mejora firmeza, reduce celulitis y drena líquidos con protocolos corporales diseñados a medida y supervisados por especialistas.
+seo:
+  title: Tratamientos corporales avanzados en Takamaka Natural Beauty
+  desc: Mejora firmeza, reduce celulitis y drena líquidos con protocolos corporales diseñados a medida y supervisados por especialistas.
 weight: 2
 ---
 

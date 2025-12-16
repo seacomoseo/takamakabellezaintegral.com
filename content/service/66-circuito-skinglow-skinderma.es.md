@@ -1,8 +1,8 @@
 ---
 slug: circuito-skinglow-skinderma
 title: Circuito Skinglow by Skinderma
-summary: Experiencia facial de lujo para revitalizar la piel y devolverle su luminosidad y firmeza natural.
-image: tratamientos/circuito-skinglow-skinderma.jpg
+sum: Experiencia facial de lujo para revitalizar la piel y devolverle su luminosidad y firmeza natural.
+img: /u/tratamientos/circuito-skinglow-skinderma.jpg
 price: 95
 service_types:
 - Circuito Skinglow by Skinderma
@@ -17,8 +17,9 @@ rates: |
   - 3 sesiones: 255€
   - 5 sesiones: 400€
   - 7 sesiones: 525€
-seo: Circuito Skinglow by Skinderma - Takamaka
-description: Experiencia facial de lujo para revitalizar la piel y devolverle su luminosidad y firmeza natural.
+seo:
+  title: Circuito Skinglow by Skinderma - Takamaka
+  desc: Experiencia facial de lujo para revitalizar la piel y devolverle su luminosidad y firmeza natural.
 weight: 66
 ---
 

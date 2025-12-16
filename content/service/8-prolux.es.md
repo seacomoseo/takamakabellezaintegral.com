@@ -1,8 +1,8 @@
 ---
 slug: prolux
 title: ProLux IPL SkinRejuvenation
-summary: Luz pulsada intensa para manchas, rosácea y fotoenvejecimiento.
-image: tratamientos/prolux.jpg
+sum: Luz pulsada intensa para manchas, rosácea y fotoenvejecimiento.
+img: /u/tratamientos/prolux.jpg
 price: 90
 service_types:
 - ProLux IPL SkinRejuvenation
@@ -14,8 +14,9 @@ category:
 - aparatologia
 - facial
 rates: 'Precio sesión: 90€'
-seo: IPL facial ProLux en Takamaka
-description: Unifica tono y estimula colágeno con filtros específicos y sistema de enfriamiento integrado.
+seo:
+  title: IPL facial ProLux en Takamaka
+  desc: Unifica tono y estimula colágeno con filtros específicos y sistema de enfriamiento integrado.
 weight: 8
 ---
 

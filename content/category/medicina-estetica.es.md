@@ -1,13 +1,14 @@
 ---
 slug: medicina-estetica
 title: Medicina Estética
-summary: Procedimientos médico-estéticos mínimamente invasivos para rejuvenecer tu piel.
-image: tratamientos/medicina-estetica.jpg
+sum: Procedimientos médico-estéticos mínimamente invasivos para rejuvenecer tu piel.
+img: /u/tratamientos/medicina-estetica.jpg
 icon: stethoscope
 category:
 - general
-seo: Medicina estética en Takamaka Natural Beauty
-description: Soluciones supervisadas por facultativo para mejorar arrugas, volumen y calidad cutánea con total seguridad.
+seo:
+  title: Medicina estética en Takamaka Natural Beauty
+  desc: Soluciones supervisadas por facultativo para mejorar arrugas, volumen y calidad cutánea con total seguridad.
 weight: 10
 ---
 

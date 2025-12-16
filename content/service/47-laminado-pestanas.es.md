@@ -1,8 +1,8 @@
 ---
 slug: laminado-pestanas
 title: Laminado de pestañas
-summary: Eleva y curva pestañas naturales hasta 6-8 semanas.
-image: tratamientos/laminado-pestanas.jpg
+sum: Eleva y curva pestañas naturales hasta 6-8 semanas.
+img: /u/tratamientos/laminado-pestanas.jpg
 price: 35
 service_types:
 - Laminado de pestañas
@@ -13,8 +13,9 @@ service_areas:
 category:
 - mirada
 rates: 'Precio: 35€'
-seo: Laminado de pestañas en Takamaka
-description: Abre tu mirada sin extensiones ni máscara usando keratin lift seguro.
+seo:
+  title: Laminado de pestañas en Takamaka
+  desc: Abre tu mirada sin extensiones ni máscara usando keratin lift seguro.
 weight: 47
 ---
 

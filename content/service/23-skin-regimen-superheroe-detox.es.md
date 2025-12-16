@@ -1,8 +1,8 @@
 ---
 slug: skin-regimen-superheroe-detox
 title: Skin Regimen – Superhéroe Detox
-summary: Multimasking antioxidante que combate estrés urbano y digital.
-image: tratamientos/skin-regimen-superheroe-detox.jpg
+sum: Multimasking antioxidante que combate estrés urbano y digital.
+img: /u/tratamientos/skin-regimen-superheroe-detox.jpg
 price: 90
 service_types:
 - Skin Regimen – Superhéroe Detox
@@ -13,8 +13,9 @@ service_areas:
 category:
 - facial
 rates: 'Precio sesión: 90€'
-seo: Skin Regimen detox urbano – Takamaka
-description: Revitaliza la piel expuesta a contaminación y pantallas con alfa-glucano y longevozymes.
+seo:
+  title: Skin Regimen detox urbano – Takamaka
+  desc: Revitaliza la piel expuesta a contaminación y pantallas con alfa-glucano y longevozymes.
 weight: 23
 ---
 

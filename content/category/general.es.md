@@ -1,10 +1,11 @@
 ---
 slug: general
 title: General
-summary: Tratamientos faciales, corporales y medicina estética.
-image: presentacion-alt.jpg
+sum: Tratamientos faciales, corporales y medicina estética.
+img: /u/presentacion-alt.jpg
 icon: category
-seo: Categoría general - Takamaka Natural Beauty
+seo:
+  title: Categoría general - Takamaka Natural Beauty
+  noindex: y
 weight: -1
-noindex: y
 ---

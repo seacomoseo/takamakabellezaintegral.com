@@ -1,13 +1,14 @@
 ---
 slug: manos-pies
 title: Manos & Pies
-summary: Manicuras y pedicuras spa con acabados impecables y duraderos.
-image: tratamientos/manos-pies.jpg
+sum: Manicuras y pedicuras spa con acabados impecables y duraderos.
+img: /u/tratamientos/manos-pies.jpg
 icon: cheer
 category:
 - general
-seo: Manicura y pedicura en Takamaka Natural Beauty
-description: Manicuras semipermanentes y pedicuras spa que cuidan tu piel, tus uñas y tu momento de relax.
+seo:
+  title: Manicura y pedicura en Takamaka Natural Beauty
+  desc: Manicuras semipermanentes y pedicuras spa que cuidan tu piel, tus uñas y tu momento de relax.
 weight: 4
 ---
 

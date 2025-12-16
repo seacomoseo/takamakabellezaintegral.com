@@ -1,8 +1,8 @@
 ---
 slug: iluminante
 title: Tratamiento iluminante
-summary: Vitamina C estabilizada que aporta luz y protege del estrés oxidativo.
-image: tratamientos/iluminante.jpg
+sum: Vitamina C estabilizada que aporta luz y protege del estrés oxidativo.
+img: /u/tratamientos/iluminante.jpg
 price: 90
 service_types:
 - Tratamiento iluminante
@@ -13,8 +13,9 @@ service_areas:
 category:
 - facial
 rates: 'Precio sesión: 90€'
-seo: Tratamiento iluminante vitamina C
-description: Tono uniforme y glow inmediato gracias a exfoliación enzimática y sérum antioxidante.
+seo:
+  title: Tratamiento iluminante vitamina C
+  desc: Tono uniforme y glow inmediato gracias a exfoliación enzimática y sérum antioxidante.
 weight: 21
 ---
 

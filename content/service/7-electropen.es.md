@@ -1,8 +1,8 @@
 ---
 slug: electropen
 title: Electroporación Electropen
-summary: Introduce principios activos sin agujas mediante impulsos eléctricos.
-image: tratamientos/electropen.jpg
+sum: Introduce principios activos sin agujas mediante impulsos eléctricos.
+img: /u/tratamientos/electropen.jpg
 price: 95
 service_types:
 - Electroporación Electropen
@@ -20,8 +20,9 @@ rates: |
   - Sin exosomas
     - Sesión: 95€
     - Bono 3 sesiones: 255€
-seo: Electroporación facial Electropen
-description: Activa canales celulares transitorios para hidratar y tratar fotoenvejecimiento sin dolor.
+seo:
+  title: Electroporación facial Electropen
+  desc: Activa canales celulares transitorios para hidratar y tratar fotoenvejecimiento sin dolor.
 weight: 7
 ---
 

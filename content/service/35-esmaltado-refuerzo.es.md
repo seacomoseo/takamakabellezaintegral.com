@@ -1,8 +1,8 @@
 ---
 slug: esmaltado-refuerzo
 title: Esmaltado con refuerzo
-summary: Esmaltado semipermanente con capa de refuerzo para uñas frágiles.
-image: tratamientos/esmaltado-refuerzo.jpg
+sum: Esmaltado semipermanente con capa de refuerzo para uñas frágiles.
+img: /u/tratamientos/esmaltado-refuerzo.jpg
 price: 25
 service_types:
 - Esmaltado con refuerzo
@@ -13,8 +13,9 @@ service_areas:
 category:
 - manos-pies
 rates: 'Precio: 25€'
-seo: Esmaltado reforzado en Takamaka
-description: Protege y fortalece la lámina ungueal prolongando la durabilidad del color.
+seo:
+  title: Esmaltado reforzado en Takamaka
+  desc: Protege y fortalece la lámina ungueal prolongando la durabilidad del color.
 weight: 35
 ---
 

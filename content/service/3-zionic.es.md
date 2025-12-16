@@ -1,8 +1,8 @@
 ---
 slug: zionic
 title: Zionic® Slim & Shape
-summary: Radiofrecuencia rotacional para reafirmar y reducir volumen.
-image: tratamientos/zionic.jpg
+sum: Radiofrecuencia rotacional para reafirmar y reducir volumen.
+img: /u/tratamientos/zionic.jpg
 price: 60
 service_types:
 - Zionic® Slim & Shape
@@ -17,8 +17,9 @@ rates: |
   - Bono 8 sesiones: 360€
   - Bono 10 sesiones: 450€
   - Sesión suelta: 60€
-seo: Zionic en Takamaka Natural Beauty
-description: Combina calor profundo y masaje para redefinir zonas localizadas de forma segura y cómoda.
+seo:
+  title: Zionic en Takamaka Natural Beauty
+  desc: Combina calor profundo y masaje para redefinir zonas localizadas de forma segura y cómoda.
 weight: 3
 ---
 

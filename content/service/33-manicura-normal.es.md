@@ -1,8 +1,8 @@
 ---
 slug: manicura-normal
 title: Manicura normal
-summary: Corte, limado, cutículas y esmaltado clásico con acabado brillo.
-image: tratamientos/manicura-normal.jpg
+sum: Corte, limado, cutículas y esmaltado clásico con acabado brillo.
+img: /u/tratamientos/manicura-normal.jpg
 price: 15
 service_types:
 - Manicura normal
@@ -13,8 +13,9 @@ service_areas:
 category:
 - manos-pies
 rates: 'Precio: 15€'
-seo: Manicura tradicional en Takamaka
-description: Uñas cuidadas y esmaltadas con lacas veganas de larga duración.
+seo:
+  title: Manicura tradicional en Takamaka
+  desc: Uñas cuidadas y esmaltadas con lacas veganas de larga duración.
 weight: 33
 ---
 

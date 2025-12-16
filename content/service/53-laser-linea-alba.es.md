@@ -1,8 +1,8 @@
 ---
 slug: laser-linea-alba
 title: Láser línea alba
-summary: Depilación láser de línea media abdominal.
-image: tratamientos/laser-linea-alba.jpg
+sum: Depilación láser de línea media abdominal.
+img: /u/tratamientos/laser-linea-alba.jpg
 price: 15
 service_types:
 - Láser línea alba
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-laser
 rates: 'Precio: 15€'
-seo: Láser línea alba en Takamaka
-description: Sesión rápida y eficaz que evita crecimiento de vello fino.
+seo:
+  title: Láser línea alba en Takamaka
+  desc: Sesión rápida y eficaz que evita crecimiento de vello fino.
 weight: 53
 ---
 

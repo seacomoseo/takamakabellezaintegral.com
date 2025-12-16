@@ -1,8 +1,8 @@
 ---
 slug: masaje-30-min
 title: Masaje 30 min
-summary: Masaje exprés en zonas clave para alivio rápido del estrés.
-image: tratamientos/masaje-30-min.jpg
+sum: Masaje exprés en zonas clave para alivio rápido del estrés.
+img: /u/tratamientos/masaje-30-min.jpg
 price: 40
 service_types:
 - Masaje 30 min
@@ -14,8 +14,9 @@ category:
 - rituales-masajes
 - corporal
 rates: 'Precio: 40€'
-seo: Masaje exprés 30 min – Takamaka
-description: Descontractura espalda o piernas en media hora con maniobras precisas y aceite aromático.
+seo:
+  title: Masaje exprés 30 min – Takamaka
+  desc: Descontractura espalda o piernas en media hora con maniobras precisas y aceite aromático.
 weight: 32
 ---
 

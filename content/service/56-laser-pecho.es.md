@@ -1,8 +1,8 @@
 ---
 slug: laser-pecho
 title: Láser pecho
-summary: Láser en zona pectoral completa para hombre.
-image: tratamientos/laser-pecho.jpg
+sum: Láser en zona pectoral completa para hombre.
+img: /u/tratamientos/laser-pecho.jpg
 price: 30
 service_types:
 - Láser pecho
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-laser
 rates: 'Precio: 30€'
-seo: Láser pecho masculino en Takamaka
-description: Reduce vello grueso y denso de forma duradera.
+seo:
+  title: Láser pecho masculino en Takamaka
+  desc: Reduce vello grueso y denso de forma duradera.
 weight: 56
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: depilacion-labio-superior-hilo
 title: Depilación Labio superior hilo
-summary: Depilación con hilo para máxima precisión y menos irritación.
-image: tratamientos/depilacion-labio-superior-hilo.jpg
+sum: Depilación con hilo para máxima precisión y menos irritación.
+img: /u/tratamientos/depilacion-labio-superior-hilo.jpg
 price: 9
 service_types:
 - Depilación Labio superior hilo
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-cera-hilo
 rates: 'Precio: 9€'
-seo: Depilación con hilo en labio superior en Takamaka
-description: Define contorno y retarda crecimiento con técnica tradicional oriental.
+seo:
+  title: Depilación con hilo en labio superior en Takamaka
+  desc: Define contorno y retarda crecimiento con técnica tradicional oriental.
 weight: 41
 ---
 

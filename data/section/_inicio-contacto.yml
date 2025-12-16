@@ -1,44 +1,44 @@
 name: Inicio ➡️ Contacto
-title: Contacto
-# subtitle: Pide tu cita o ven a conocernos
-menu_button: cta
-box:
-  cols: 2
+menu_btn: cta
 boxes:
-- contact:
-  - type: schedule
-    days: Lunes a Viernes
-    hours: 10:00 - 20:00
-    full: y
-  - type: mail
-    label: info@takamakabellezaintegral.com
-    full: y
+- title: Contacto
+  box:
+    cols: 2
+  boxes:
+  - when:
+    - days: Lunes a Viernes
+      hours: 10:00 - 20:00
+      full: y
 
-  - type: h3
-    label: Alcantarilla
-  - type: phone
-    label: 626 05 38 53
-  - type: whatsapp
-    label: 626 05 38 53
-    button: cta
-  - type: address
-    label: Calle Mayor, 239, 30820 Alcantarilla, Murcia
-    anchor: https://g.page/takamakanaturalbeauty
+    links:
 
-  - type: h3
-    label: Molina de Segura
-  - type: phone
-    label: 623 70 07 19
-  - type: whatsapp
-    label: 623 70 07 19
-    button: cta
-  - type: address
-    label: Av. Gutiérrez Mellado, 19, 30500 Molina de Segura
-    anchor: Takamaka Natural Beauty - Av. Gutiérrez Mellado, 19, 30500 Molina de Segura
-- geos:
-  - type: point
-    geo: '{"type":"Point","coordinates":[-1.2217262,37.9646301]}'
-  - type: point
-    geo: '{"type":"Point","coordinates":[-1.207897,38.062823]}'
-  rate: 3/1
-  
+    - type: mail
+      label: info@takamakabellezaintegral.com
+      full: y
+    - type: h3
+      label: Alcantarilla
+    - type: phone
+      label: 626 05 38 53
+    - type: whatsapp
+      label: 626 05 38 53
+      btn: cta
+    - type: address
+      label: Calle Mayor, 239, 30820 Alcantarilla, Murcia
+      anchor: https://g.page/takamakanaturalbeauty
+    - type: h3
+      label: Molina de Segura
+    - type: phone
+      label: 623 70 07 19
+    - type: whatsapp
+      label: 623 70 07 19
+      btn: cta
+    - type: address
+      label: Av. Gutiérrez Mellado, 19, 30500 Molina de Segura
+      anchor: Takamaka Natural Beauty - Av. Gutiérrez Mellado, 19, 30500 Molina de Segura
+
+  - geos:
+    - type: point
+      geo: '{"type":"Point","coordinates":[-1.2217262,37.9646301]}'
+    - type: point
+      geo: '{"type":"Point","coordinates":[-1.207897,38.062823]}'
+    rate: 3/1

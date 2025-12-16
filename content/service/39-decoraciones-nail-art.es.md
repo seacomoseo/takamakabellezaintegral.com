@@ -1,8 +1,8 @@
 ---
 slug: decoraciones-nail-art
 title: Decoraciones nail art
-summary: Piedras, foil y diseño a mano alzada para un toque único.
-image: tratamientos/decoraciones-nail-art.jpg
+sum: Piedras, foil y diseño a mano alzada para un toque único.
+img: /u/tratamientos/decoraciones-nail-art.jpg
 price: 1
 service_types:
 - Decoraciones nail art
@@ -13,8 +13,9 @@ service_areas:
 category:
 - manos-pies
 rates: 'Precio: desde 1€ por uña'
-seo: Nail art y decoraciones – Takamaka
-description: Personaliza tu manicura con diseños de tendencia y máxima precisión.
+seo:
+  title: Nail art y decoraciones – Takamaka
+  desc: Personaliza tu manicura con diseños de tendencia y máxima precisión.
 weight: 39
 ---
 

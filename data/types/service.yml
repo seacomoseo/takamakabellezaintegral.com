@@ -4,7 +4,7 @@ weight: 1
 icon: health_and_beauty
 emoji: ☯️
 body: y
-related: y
+rel: y
 tpl:
   callnow: auto
   sections:
@@ -13,13 +13,13 @@ tpl:
   - file: tratamientos-cita
   - file: base-social
   - file: base-share
-  - file: base-related
+  - file: base-rel
   list:
     rate: 1
     card: y
     color: dark
     fade: main
-    fade_type: linear-t
+    fade_to: t
     shade: n
     icon: hide
     price: hide

@@ -1,8 +1,8 @@
 ---
 slug: laser-ingles-intergluteo
 title: Láser ingles + interglúteo
-summary: Láser bikini brasileño + línea interglútea.
-image: tratamientos/laser-ingles-intergluteo.jpg
+sum: Láser bikini brasileño + línea interglútea.
+img: /u/tratamientos/laser-ingles-intergluteo.jpg
 price: 33
 service_types:
 - Láser ingles + interglúteo
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-laser
 rates: 'Precio: 33€'
-seo: Láser ingles brasileñas en Takamaka
-description: Confort y privacidad garantizados con sistema de frío en punta.
+seo:
+  title: Láser ingles brasileñas en Takamaka
+  desc: Confort y privacidad garantizados con sistema de frío en punta.
 weight: 55
 ---
 

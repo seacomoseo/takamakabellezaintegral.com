@@ -1,8 +1,8 @@
 ---
 slug: esmaltado-permanente
 title: Esmaltado permanente
-summary: Manicura con gel polish de 2-3 semanas de duración.
-image: tratamientos/esmaltado-permanente.jpg
+sum: Manicura con gel polish de 2-3 semanas de duración.
+img: /u/tratamientos/esmaltado-permanente.jpg
 price: 22
 service_types:
 - Esmaltado permanente
@@ -13,8 +13,9 @@ service_areas:
 category:
 - manos-pies
 rates: 'Precio: 22€'
-seo: Esmaltado permanente en Takamaka
-description: Uñas impecables sin desconchados gracias a lámpara LED de última generación.
+seo:
+  title: Esmaltado permanente en Takamaka
+  desc: Uñas impecables sin desconchados gracias a lámpara LED de última generación.
 weight: 34
 ---
 

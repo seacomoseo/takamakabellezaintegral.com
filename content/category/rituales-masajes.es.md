@@ -1,13 +1,14 @@
 ---
 slug: rituales-masajes
 title: Rituales & Masajes
-summary: Experiencias sensoriales que fusionan relax y eficacia para cuerpo y mente.
-image: tratamientos/rituales-masajes.jpg
+sum: Experiencias sensoriales que fusionan relax y eficacia para cuerpo y mente.
+img: /u/tratamientos/rituales-masajes.jpg
 icon: spa
 category:
 - general
-seo: Rituales de belleza y masajes en Takamaka Natural Beauty
-description: Piel de Seda, Sal del Himalaya y otros rituales exclusivos que equilibran cuerpo, mente y emociones.
+seo:
+  title: Rituales de belleza y masajes en Takamaka Natural Beauty
+  desc: Piel de Seda, Sal del Himalaya y otros rituales exclusivos que equilibran cuerpo, mente y emociones.
 weight: 6
 ---
 

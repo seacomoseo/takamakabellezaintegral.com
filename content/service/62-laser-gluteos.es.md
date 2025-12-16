@@ -1,8 +1,8 @@
 ---
 slug: laser-gluteos
 title: Láser glúteos
-summary: Depilación láser de zona glútea completa.
-image: tratamientos/laser-gluteos.jpg
+sum: Depilación láser de zona glútea completa.
+img: /u/tratamientos/laser-gluteos.jpg
 price: 20
 service_types:
 - Láser glúteos
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-laser
 rates: 'Precio: 20€'
-seo: Láser glúteos en Takamaka
-description: Piel suave y limpia en área de difícil acceso gracias a cabezal ergonómico.
+seo:
+  title: Láser glúteos en Takamaka
+  desc: Piel suave y limpia en área de difícil acceso gracias a cabezal ergonómico.
 weight: 62
 ---
 

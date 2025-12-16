@@ -1,8 +1,8 @@
 ---
 slug: ipl
 title: IPL Fotodepilación
-summary: Pulsos de luz que debilitan el folículo para una depilación duradera.
-image: tratamientos/ipl.jpg
+sum: Pulsos de luz que debilitan el folículo para una depilación duradera.
+img: /u/tratamientos/ipl.jpg
 price: 130
 service_types:
 - IPL Fotodepilación
@@ -16,8 +16,9 @@ category:
 rates: |
   - Sesión suelta: 130€
   - Bono 3 sesiones: 300€
-seo: IPL fotodepilación en Takamaka
-description: Dile adiós al vello con tecnología de luz pulsada y protocolos personalizados por fototipo.
+seo:
+  title: IPL fotodepilación en Takamaka
+  desc: Dile adiós al vello con tecnología de luz pulsada y protocolos personalizados por fototipo.
 weight: 10
 ---
 

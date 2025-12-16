@@ -8,7 +8,7 @@
   }
 }
 #body-home #header {
-  .image {
+  .img {
     animation: logo-intro .5s 1s both;
     @media (min-width: $viewport-lg) {
       --logo-y: 5em;
@@ -21,7 +21,7 @@
   @mixin show-from($delay) {
     animation: show-from .5s (1.25 + .125s * $delay) both;
   }
-  .subtitle    { @include show-from(0); }
-  .md .buttons { @include show-from(1); margin-top: 0;}
-  .md p        { @include show-from(2); }
+  .sub      { @include show-from(0); }
+  .md .btns { @include show-from(1); margin-top: 0;}
+  .md p     { @include show-from(2); }
 }

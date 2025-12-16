@@ -1,8 +1,8 @@
 ---
 slug: maderoterapia-facial
 title: Maderoterapia facial
-summary: Masaje con mini-rodillos y champiñones para tonificar y descontracturar.
-image: tratamientos/maderoterapia-facial.jpg
+sum: Masaje con mini-rodillos y champiñones para tonificar y descontracturar.
+img: /u/tratamientos/maderoterapia-facial.jpg
 price: 50
 service_types:
 - Maderoterapia facial
@@ -14,8 +14,9 @@ category:
 - facial
 - rituales-masajes
 rates: 'Precio sesión: 50€'
-seo: Maderoterapia facial en Takamaka
-description: Suaviza líneas y mejora circulación en 30 min sin aparatología.
+seo:
+  title: Maderoterapia facial en Takamaka
+  desc: Suaviza líneas y mejora circulación en 30 min sin aparatología.
 weight: 25
 ---
 

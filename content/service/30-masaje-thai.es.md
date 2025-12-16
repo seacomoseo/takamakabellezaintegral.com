@@ -1,8 +1,8 @@
 ---
 slug: masaje-thai
 title: Masaje Thaï
-summary: Estiramientos pasivos y presiones para desbloquear energía y elasticidad.
-image: tratamientos/masaje-thai.jpg
+sum: Estiramientos pasivos y presiones para desbloquear energía y elasticidad.
+img: /u/tratamientos/masaje-thai.jpg
 price: 80
 service_types:
 - Masaje Thaï
@@ -14,8 +14,9 @@ category:
 - rituales-masajes
 - corporal
 rates: 'Precio: 80€'
-seo: Masaje tradicional Thaï en Takamaka
-description: Energiza cuerpo y mente con técnica ancestral realizada en tatami y ropa cómoda.
+seo:
+  title: Masaje tradicional Thaï en Takamaka
+  desc: Energiza cuerpo y mente con técnica ancestral realizada en tatami y ropa cómoda.
 weight: 30
 ---
 

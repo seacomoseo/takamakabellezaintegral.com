@@ -1,8 +1,8 @@
 ---
 slug: drenaje-renata-franca
 title: Drenaje Renata França
-summary: Método brasileño de drenaje linfático que desinflama y define contornos.
-image: tratamientos/drenaje-renata-franca.jpg
+sum: Método brasileño de drenaje linfático que desinflama y define contornos.
+img: /u/tratamientos/drenaje-renata-franca.jpg
 price: 80
 service_types:
 - Drenaje Renata França
@@ -16,8 +16,9 @@ category:
 rates: |
   - Sesión suelta: 80€
   - Bono 3 sesiones: 180€
-seo: Drenaje Renata França en Murcia
-description: Alivio inmediato de pesadez y silueta más afinada gracias a maniobras precisas y ritmo constante.
+seo:
+  title: Drenaje Renata França en Murcia
+  desc: Alivio inmediato de pesadez y silueta más afinada gracias a maniobras precisas y ritmo constante.
 weight: 12
 ---
 

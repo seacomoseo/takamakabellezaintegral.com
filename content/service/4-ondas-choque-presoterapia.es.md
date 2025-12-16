@@ -1,8 +1,8 @@
 ---
 slug: ondas-choque-presoterapia
 title: Ondas de choque + Presoterapia
-summary: Dúo que estimula colágeno y mejora drenaje linfático en la misma sesión.
-image: tratamientos/ondas-choque-presoterapia.jpg
+sum: Dúo que estimula colágeno y mejora drenaje linfático en la misma sesión.
+img: /u/tratamientos/ondas-choque-presoterapia.jpg
 price: 60
 service_types:
 - Ondas de choque + Presoterapia
@@ -18,8 +18,9 @@ rates: |
   - Bono 8 sesiones: 440€
   - Bono 10 sesiones: 550€
   - Sesión suelta: 60€
-seo: Ondas de choque y presoterapia en Takamaka
-description: Reduce flacidez y pesadez de piernas con ondas acústicas y presoterapia secuencial.
+seo:
+  title: Ondas de choque y presoterapia en Takamaka
+  desc: Reduce flacidez y pesadez de piernas con ondas acústicas y presoterapia secuencial.
 weight: 4
 ---
 

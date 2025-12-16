@@ -1,8 +1,8 @@
 ---
 slug: peeling-quimico
 title: Peeling químico AHA 30 %
-summary: Exfoliación controlada que renueva la epidermis y aporta luminosidad.
-image: tratamientos/peeling-quimico.jpg
+sum: Exfoliación controlada que renueva la epidermis y aporta luminosidad.
+img: /u/tratamientos/peeling-quimico.jpg
 price: 80
 service_types:
 - Peeling químico AHA 30 %
@@ -15,8 +15,9 @@ category:
 rates: |
   - Sesión suelta: 80€
   - Bono 3 sesiones: 216€
-seo: Peeling químico facial en Takamaka
-description: Ácidos frutales al 30 % que afinan textura, minimizan poros y unifican tono en 20 min.
+seo:
+  title: Peeling químico facial en Takamaka
+  desc: Ácidos frutales al 30 % que afinan textura, minimizan poros y unifican tono en 20 min.
 weight: 16
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: laser-medios-brazos
 title: Láser medios brazos
-summary: Depilación láser de codo a muñeca.
-image: tratamientos/laser-medios-brazos.jpg
+sum: Depilación láser de codo a muñeca.
+img: /u/tratamientos/laser-medios-brazos.jpg
 price: 18
 service_types:
 - Láser medios brazos
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-laser
 rates: 'Precio: 18€'
-seo: Láser medios brazos en Takamaka
-description: Opción rápida y económica para mitad inferior del brazo.
+seo:
+  title: Láser medios brazos en Takamaka
+  desc: Opción rápida y económica para mitad inferior del brazo.
 weight: 59
 ---
 

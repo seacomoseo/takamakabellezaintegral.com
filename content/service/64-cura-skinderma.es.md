@@ -1,8 +1,8 @@
 ---
 slug: cura-skinderma
 title: La Cura de Skinderma
-summary: Tratamiento facial intensivo diseñado para detoxificar, oxigenar y revitalizar la piel en profundidad.
-image: tratamientos/cura-skinderma.jpg
+sum: Tratamiento facial intensivo diseñado para detoxificar, oxigenar y revitalizar la piel en profundidad.
+img: /u/tratamientos/cura-skinderma.jpg
 price: 85
 service_types:
 - La Cura de Skinderma
@@ -13,8 +13,9 @@ service_areas:
 category:
 - facial
 rates: 'Precio: 85€'
-seo: La Cura de Skinderma – Takamaka
-description: Tratamiento facial intensivo diseñado para detoxificar, oxigenar y revitalizar la piel en profundidad.
+seo:
+  title: La Cura de Skinderma – Takamaka
+  desc: Tratamiento facial intensivo diseñado para detoxificar, oxigenar y revitalizar la piel en profundidad.
 weight: 64
 ---
 

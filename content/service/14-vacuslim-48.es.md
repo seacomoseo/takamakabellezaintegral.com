@@ -1,8 +1,8 @@
 ---
 slug: vacuslim-48
 title: VacuSlim 48
-summary: Cobertura termoactiva oclusiva para remodelación exprés en 48 h.
-image: tratamientos/vacuslim-48.jpg
+sum: Cobertura termoactiva oclusiva para remodelación exprés en 48 h.
+img: /u/tratamientos/vacuslim-48.jpg
 price: 45
 service_types:
 - VacuSlim 48
@@ -16,8 +16,9 @@ rates: |
   - Sesión suelta: 50€
   - Sesión en bono: 45€
   - VacuSlim + Renata França: 120€
-seo: VacuSlim 48 en Takamaka
-description: Reduce contorno y mejora textura cutánea con envoltura al vacío y activos lipolíticos.
+seo:
+  title: VacuSlim 48 en Takamaka
+  desc: Reduce contorno y mejora textura cutánea con envoltura al vacío y activos lipolíticos.
 weight: 14
 ---
 

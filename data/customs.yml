@@ -1,4 +1,4 @@
 - types: [ service ]
-  var: box_md
+  var: md
   name: rates
   label: Tarifas

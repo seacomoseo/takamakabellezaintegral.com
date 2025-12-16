@@ -1,9 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1024" height="225" viewBox="0 0 1024 225">
 <style>
-/*
-@keyframes show-from {
+@keyframes logo-show-from {
   0% {
-    transform: var(--show-from, translateY(3rem));
+    transform: var(--logo-show-from, translateY(3rem));
     opacity: 0;
   }
   100% {
@@ -11,7 +10,6 @@
     opacity: 1;
   }
 }
-*/
 #logo-sil-1,
 #logo-sil-2,
 #logo-sil-3,
@@ -19,13 +17,13 @@
 #logo-sub {
   transform-box: fill-box;
   transform-origin: center;
-  animation: show-from .5s 1s both;
+  animation: logo-show-from .5s 1s both;
   animation-delay: calc(.25s + var(--delay) * .125s);
 }
-#logo-sil-1 { --delay: 0; --show-from: scale(2) rotate(-30deg); }
-#logo-sil-2 { --delay: 1; --show-from: scale(2) rotate(30deg); }
-#logo-sil-3 { --delay: 2; --show-from: scale(2) rotate(-30deg); }
-#logo-sil-4 { --delay: 3; --show-from: scale(2) rotate(30deg); }
+#logo-sil-1 { --delay: 0; --logo-show-from: scale(2) rotate(-30deg); }
+#logo-sil-2 { --delay: 1; --logo-show-from: scale(2) rotate(30deg); }
+#logo-sil-3 { --delay: 2; --logo-show-from: scale(2) rotate(-30deg); }
+#logo-sil-4 { --delay: 3; --logo-show-from: scale(2) rotate(30deg); }
 #logo-sub   { --delay: 6; }
 </style>
 <g fill="var(--main,#b8956a)">

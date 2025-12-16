@@ -1,8 +1,8 @@
 ---
 slug: baby-boom
 title: Ritual Baby Boom
-summary: Ritual prenatal o postparto que alivia piernas y cuida la piel.
-image: tratamientos/baby-boom.jpg
+sum: Ritual prenatal o postparto que alivia piernas y cuida la piel.
+img: /u/tratamientos/baby-boom.jpg
 price: 85
 service_types:
 - Ritual Baby Boom
@@ -14,8 +14,9 @@ category:
 - rituales-masajes
 - corporal
 rates: 'Precio: 85€'
-seo: Ritual Baby Boom en Takamaka
-description: Nutre, drena y relaja con técnicas seguras para futuras y nuevas mamás.
+seo:
+  title: Ritual Baby Boom en Takamaka
+  desc: Nutre, drena y relaja con técnicas seguras para futuras y nuevas mamás.
 weight: 26
 ---
 

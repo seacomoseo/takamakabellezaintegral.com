@@ -1,8 +1,8 @@
 ---
 slug: presoterapia
 title: Presoterapia secuencial
-summary: Botas neumáticas que favorecen retorno venoso y alivian pesadez.
-image: tratamientos/presoterapia.jpg
+sum: Botas neumáticas que favorecen retorno venoso y alivian pesadez.
+img: /u/tratamientos/presoterapia.jpg
 price: 20
 service_types:
 - Presoterapia secuencial
@@ -16,8 +16,9 @@ category:
 rates: |
   - Sesión suelta: 30€
   - Sesión en bono: 20€
-seo: Presoterapia en Takamaka Natural Beauty
-description: Mejora circulación y reduce edemas con compresión graduada en piernas y abdomen.
+seo:
+  title: Presoterapia en Takamaka Natural Beauty
+  desc: Mejora circulación y reduce edemas con compresión graduada en piernas y abdomen.
 weight: 15
 ---
 

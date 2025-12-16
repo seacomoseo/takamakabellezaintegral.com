@@ -1,8 +1,8 @@
 ---
 slug: masaje-sal-himalaya
 title: Masaje con Sal del Himalaya
-summary: Masaje con piedras de sal rosa caliente que desintoxica y relaja.
-image: tratamientos/masaje-sal-himalaya.jpg
+sum: Masaje con piedras de sal rosa caliente que desintoxica y relaja.
+img: /u/tratamientos/masaje-sal-himalaya.jpg
 price: 100
 service_types:
 - Masaje con Sal del Himalaya
@@ -13,8 +13,9 @@ service_areas:
 category:
 - rituales-masajes
 rates: 'Precio: 100€'
-seo: Masaje con Sal del Himalaya en Takamaka
-description: Equilibra minerales y reduce tensión muscular con cristales terapéuticos calentados.
+seo:
+  title: Masaje con Sal del Himalaya en Takamaka
+  desc: Equilibra minerales y reduce tensión muscular con cristales terapéuticos calentados.
 weight: 28
 ---
 

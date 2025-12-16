@@ -1,8 +1,8 @@
 ---
 slug: detox-piel-grasa
 title: Detox piel grasa
-summary: Purificación con ácido salicílico y arcillas que controla brillo y poros.
-image: tratamientos/detox-piel-grasa.jpg
+sum: Purificación con ácido salicílico y arcillas que controla brillo y poros.
+img: /u/tratamientos/detox-piel-grasa.jpg
 price: 85
 service_types:
 - Detox piel grasa
@@ -13,8 +13,9 @@ service_areas:
 category:
 - facial
 rates: 'Precio sesión: 85€'
-seo: Detox para piel grasa en Takamaka
-description: Equilibra sebo y previene imperfecciones con limpieza profunda y activos antibacterianos.
+seo:
+  title: Detox para piel grasa en Takamaka
+  desc: Equilibra sebo y previene imperfecciones con limpieza profunda y activos antibacterianos.
 weight: 20
 ---
 

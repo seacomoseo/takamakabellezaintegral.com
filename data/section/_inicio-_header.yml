@@ -1,18 +1,19 @@
 name: Inicio ➡️ Cabecera
-hanchor: Salón/Centro de Belleza Natural e Integral en Alcantarilla y Molina de Segura, Murcia
 color: dark
-bi: presentacion.mp4
-alpha: .5
-parallax: fix
+bi: /u/presentacion.mp4
+alpha: 0.5
+scroll: fix
 full: y
-space: 3
 boxes:
-- image: base/logo-animation.svg
-  fit: .5
-- subtitle: Cuidamos lo que te hace única
-  md: |
-    [[::chevron_right:: Pide tu cita]](#contacto)
-    [[::add:: Tratamientos]](#tratamientos)
-- md_sm: y
-  md: |
-    ::asterisk:: Todos los tratamientos se harán con diagnostico previo adaptándonos a la piel y necesidad del cliente
+- space: 3
+  boxes:
+  - img: /u/base/logo-animation.svg
+    fit: 0.5
+  - hanchor: Salón/Centro de Belleza Natural e Integral en Alcantarilla y Molina de Segura, Murcia
+    sub: Cuidamos lo que te hace única
+    md: |
+      [[::chevron_right:: Pide tu cita]](#contacto)
+      [[::add:: Tratamientos]](#tratamientos)
+  - md_sm: y
+    md: |
+      ::asterisk:: Todos los tratamientos se harán con diagnostico previo adaptándonos a la piel y necesidad del cliente

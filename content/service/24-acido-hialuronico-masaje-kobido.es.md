@@ -1,8 +1,8 @@
 ---
 slug: acido-hialuronico-masaje-kobido
 title: Ácido hialurónico + masaje Kōbido
-summary: Hidratación profunda unida a lifting manual japonés.
-image: tratamientos/acido-hialuronico-masaje-kobido.jpg
+sum: Hidratación profunda unida a lifting manual japonés.
+img: /u/tratamientos/acido-hialuronico-masaje-kobido.jpg
 price: 85
 service_types:
 - Ácido hialurónico + masaje Kōbido
@@ -14,8 +14,9 @@ category:
 - facial
 - rituales-masajes
 rates: 'Precio sesión: 85€'
-seo: Hialurónico con masaje Kōbido – Takamaka
-description: Combina relleno hídrico y estimulación muscular para efecto glow inmediato.
+seo:
+  title: Hialurónico con masaje Kōbido – Takamaka
+  desc: Combina relleno hídrico y estimulación muscular para efecto glow inmediato.
 weight: 24
 ---
 

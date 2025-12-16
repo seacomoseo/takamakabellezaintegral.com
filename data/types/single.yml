@@ -9,7 +9,8 @@ tpl:
   callnow: auto
   section:
   - size: lg
-    line: y
-    caps: y
+    box:
+      line: y
+      caps: y
   list:
     ratio: 1

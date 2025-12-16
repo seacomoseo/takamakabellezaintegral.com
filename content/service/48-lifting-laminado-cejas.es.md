@@ -1,8 +1,8 @@
 ---
 slug: lifting-laminado-cejas
 title: Lifting y laminado de cejas
-summary: Alisa y fija vello para un efecto peinado y mayor volumen.
-image: tratamientos/lifting-laminado-cejas.jpg
+sum: Alisa y fija vello para un efecto peinado y mayor volumen.
+img: /u/tratamientos/lifting-laminado-cejas.jpg
 price: 40
 service_types:
 - Lifting y laminado de cejas
@@ -13,8 +13,9 @@ service_areas:
 category:
 - mirada
 rates: 'Precio: 40€'
-seo: Lifting de cejas en Takamaka
-description: Domestica cejas rebeldes y rellena ópticamente huecos con queratina vegetal.
+seo:
+  title: Lifting de cejas en Takamaka
+  desc: Domestica cejas rebeldes y rellena ópticamente huecos con queratina vegetal.
 weight: 48
 ---
 

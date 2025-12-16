@@ -1,8 +1,8 @@
 ---
 slug: laser-axilas
 title: Láser axilas
-summary: Depilación láser axilar para piel suave y sin irritación.
-image: tratamientos/laser-axilas.jpg
+sum: Depilación láser axilar para piel suave y sin irritación.
+img: /u/tratamientos/laser-axilas.jpg
 price: 15
 service_types:
 - Láser axilas
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-laser
 rates: 'Precio: 15€'
-seo: Láser axilas en Takamaka
-description: Reduce folículos hasta un 90 % tras varias sesiones.
+seo:
+  title: Láser axilas en Takamaka
+  desc: Reduce folículos hasta un 90 % tras varias sesiones.
 weight: 54
 ---
 

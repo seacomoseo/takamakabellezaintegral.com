@@ -4,7 +4,8 @@ icons:
   grade: 0
   optical: 24
   style: sharp
-  play: svg:youtube-iframe
+  defs:
+    play: svg:youtube-iframe
 fonts:
   base:
     family: Alexandria
@@ -19,7 +20,6 @@ fonts:
     italic: n
     line_height: 1.25
     size: 1
-    top: 0
   title:
     family: Alexandria
     weight: 300
@@ -27,14 +27,13 @@ fonts:
     italic: n
     line_height: 1.25
     size: 1
-    top: 0
   blockquote_cursive: y
 colors:
   main:
     color: '#b8956a'
     light: '#ffffff'
     dark: '#ffffff'
-    contrast:
+    turn:
       fill: n
       in: y
       text: y
@@ -42,7 +41,7 @@ colors:
     color: '#ffffff'
     light: '#ffffff'
     dark: '#ffffff'
-    contrast:
+    turn:
       fill: y
       in: y
       text: y
@@ -50,7 +49,7 @@ colors:
     color: '#ffffff'
     light: '#ffffff'
     dark: '#916f45'
-    contrast:
+    turn:
       fill: n
       in: y
       text: y
@@ -63,9 +62,9 @@ colors:
 rounded:
   radius: 0
   chamfer: n
-buttons:
-  sides_round: n
-  dot_circle: n
+btns:
+  pill: n
+  disc: n
   deep: n
   outline: y
   font:
@@ -78,7 +77,7 @@ buttons:
     caps: n
 inputs:
   fill: n
-  labels_out: n
+  labels: in
 shadow:
   left: 0
   top: 0

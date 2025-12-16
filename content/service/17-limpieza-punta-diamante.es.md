@@ -1,8 +1,8 @@
 ---
 slug: limpieza-punta-diamante
 title: Limpieza facial punta de diamante
-summary: Microdermoabrasión en seco que elimina impurezas y células muertas.
-image: tratamientos/limpieza-punta-diamante.jpg
+sum: Microdermoabrasión en seco que elimina impurezas y células muertas.
+img: /u/tratamientos/limpieza-punta-diamante.jpg
 price: 65
 service_types:
 - Limpieza facial punta de diamante
@@ -13,8 +13,9 @@ service_areas:
 category:
 - facial
 rates: 'Precio sesión: 65€'
-seo: Limpieza facial con punta de diamante – Takamaka
-description: Recupera suavidad y brillo con abrasión controlada y succión de alta precisión.
+seo:
+  title: Limpieza facial con punta de diamante – Takamaka
+  desc: Recupera suavidad y brillo con abrasión controlada y succión de alta precisión.
 weight: 17
 ---
 

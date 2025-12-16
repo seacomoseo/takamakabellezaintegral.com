@@ -1,8 +1,8 @@
 ---
 slug: hidratacion-acido-hialuronico
 title: Hidratación ácido hialurónico
-summary: Reposición intensiva de ácido hialurónico para piel flexible y jugosa.
-image: tratamientos/hidratacion-acido-hialuronico.jpg
+sum: Reposición intensiva de ácido hialurónico para piel flexible y jugosa.
+img: /u/tratamientos/hidratacion-acido-hialuronico.jpg
 price: 85
 service_types:
 - Hidratación ácido hialurónico
@@ -13,8 +13,9 @@ service_areas:
 category:
 - facial
 rates: 'Precio sesión: 85€'
-seo: Hidratación facial con ácido hialurónico
-description: Restablece el nivel hídrico y refuerza la barrera cutánea con masajes y mascarilla oclusiva.
+seo:
+  title: Hidratación facial con ácido hialurónico
+  desc: Restablece el nivel hídrico y refuerza la barrera cutánea con masajes y mascarilla oclusiva.
 weight: 18
 ---
 

@@ -1,8 +1,8 @@
 ---
 slug: pedicura-xpres
 title: Pedicura Xpres
-summary: Pedicura exprés de 30 min para pies listos en tiempo récord.
-image: tratamientos/pedicura-xpres.jpg
+sum: Pedicura exprés de 30 min para pies listos en tiempo récord.
+img: /u/tratamientos/pedicura-xpres.jpg
 price: 25
 service_types:
 - Pedicura Xpres
@@ -13,8 +13,9 @@ service_areas:
 category:
 - manos-pies
 rates: 'Precio: 25€'
-seo: Pedicura rápida en Takamaka
-description: Pies listos para sandalias en media hora con resultados impecables.
+seo:
+  title: Pedicura rápida en Takamaka
+  desc: Pies listos para sandalias en media hora con resultados impecables.
 weight: 38
 ---
 

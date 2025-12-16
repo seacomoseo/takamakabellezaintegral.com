@@ -1,8 +1,8 @@
 ---
 slug: lpg
 title: LPG Endermologie®
-summary: Lipomasaje mecánico que activa circulación y reduce piel de naranja.
-image: tratamientos/lpg.jpg
+sum: Lipomasaje mecánico que activa circulación y reduce piel de naranja.
+img: /u/tratamientos/lpg.jpg
 price: 300
 service_types:
 - LPG Endermologie®
@@ -21,8 +21,9 @@ rates: |
     - Bono 6 sesiones: 300€
     - Bono 8 sesiones: 400€
     - Bono 10 sesiones: 500€
-seo: LPG Endermologie en Takamaka Natural Beauty
-description: Lucha contra la celulitis y remodela la silueta con LPG, tratamiento mecánico indoloro y sin tiempos de baja.
+seo:
+  title: LPG Endermologie en Takamaka Natural Beauty
+  desc: Lucha contra la celulitis y remodela la silueta con LPG, tratamiento mecánico indoloro y sin tiempos de baja.
 weight: 2
 ---
 

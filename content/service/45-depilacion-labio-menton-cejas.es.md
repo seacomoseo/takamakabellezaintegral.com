@@ -1,8 +1,8 @@
 ---
 slug: depilacion-labio-menton-cejas
 title: Depilación Labio + mentón + cejas
-summary: Combo facial de depilación con cera o hilo a precio especial.
-image: tratamientos/depilacion-labio-menton-cejas.jpg
+sum: Combo facial de depilación con cera o hilo a precio especial.
+img: /u/tratamientos/depilacion-labio-menton-cejas.jpg
 price: 19
 service_types:
 - Labio + mentón + cejas
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-cera-hilo
 rates: 'Precio: 19€'
-seo: Depilación labio, mentón y cejas
-description: Paquete 3 zonas con asesoría de forma de ceja.
+seo:
+  title: Depilación labio, mentón y cejas
+  desc: Paquete 3 zonas con asesoría de forma de ceja.
 weight: 45
 ---
 

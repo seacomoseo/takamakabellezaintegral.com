@@ -1,8 +1,8 @@
 ---
 slug: gold-skinderma
 title: Gold de Skinderma
-summary: Experiencia facial de lujo para revitalizar la piel y devolverle su luminosidad y firmeza natural.
-image: tratamientos/gold-skinderma.jpg
+sum: Experiencia facial de lujo para revitalizar la piel y devolverle su luminosidad y firmeza natural.
+img: /u/tratamientos/gold-skinderma.jpg
 price: 100
 service_types:
 - Gold de Skinderma
@@ -13,8 +13,9 @@ service_areas:
 category:
 - facial
 rates: 'Precio: 100€'
-seo: Gold de Skinderma – Takamaka
-description: Experiencia facial de lujo para revitalizar la piel y devolverle su luminosidad y firmeza natural.
+seo:
+  title: Gold de Skinderma – Takamaka
+  desc: Experiencia facial de lujo para revitalizar la piel y devolverle su luminosidad y firmeza natural.
 weight: 65
 ---
 

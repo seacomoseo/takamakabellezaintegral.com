@@ -1,8 +1,8 @@
 ---
 slug: masaje-60-min
 title: Masaje 60 min
-summary: Mix de técnicas relajantes para liberar tensiones y restaurar energía.
-image: tratamientos/masaje-60-min.jpg
+sum: Mix de técnicas relajantes para liberar tensiones y restaurar energía.
+img: /u/tratamientos/masaje-60-min.jpg
 price: 60
 service_types:
 - Masaje 60 min
@@ -14,8 +14,9 @@ category:
 - rituales-masajes
 - corporal
 rates: 'Precio: 60€'
-seo: Masaje relajante 60 min – Takamaka
-description: Masaje corporal completo de una hora que elimina tensión muscular y calma la mente.
+seo:
+  title: Masaje relajante 60 min – Takamaka
+  desc: Masaje corporal completo de una hora que elimina tensión muscular y calma la mente.
 weight: 31
 ---
 

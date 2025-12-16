@@ -1,8 +1,8 @@
 ---
 slug: caci
 title: CACI® Microcorrientes
-summary: Lifting no quirúrgico que tonifica músculos faciales en minutos.
-image: tratamientos/caci.jpg
+sum: Lifting no quirúrgico que tonifica músculos faciales en minutos.
+img: /u/tratamientos/caci.jpg
 price: 75
 service_types:
 - CACI® Microcorrientes
@@ -16,8 +16,9 @@ category:
 rates: |
   - Sesión suelta: 75€
   - Bono 3 sesiones: 180€
-seo: CACI facial en Takamaka Natural Beauty
-description: Re-educa la musculatura del rostro con microcorrientes de baja frecuencia y mejora definición.
+seo:
+  title: CACI facial en Takamaka Natural Beauty
+  desc: Re-educa la musculatura del rostro con microcorrientes de baja frecuencia y mejora definición.
 weight: 9
 ---
 

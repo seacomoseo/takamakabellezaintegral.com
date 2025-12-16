@@ -1,8 +1,8 @@
 ---
 slug: laser-labio-superior
 title: Láser labio superior
-summary: Depilación láser de la zona del bigote en 5 min.
-image: tratamientos/laser-labio-superior.jpg
+sum: Depilación láser de la zona del bigote en 5 min.
+img: /u/tratamientos/laser-labio-superior.jpg
 price: 15
 service_types:
 - Láser labio superior
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-laser
 rates: 'Precio: 15€'
-seo: Láser labio superior en Takamaka
-description: Dile adiós al vello oscuro con láser seguro incluso en pieles claras.
+seo:
+  title: Láser labio superior en Takamaka
+  desc: Dile adiós al vello oscuro con láser seguro incluso en pieles claras.
 weight: 51
 ---
 

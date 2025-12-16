@@ -1,8 +1,8 @@
 ---
 slug: depilacion-labio-superior-cera
 title: Depilación labio superior cera
-summary: Depilación rápida con cera hipoalergénica para zona del bigote.
-image: tratamientos/depilacion-labio-superior-cera.jpg
+sum: Depilación rápida con cera hipoalergénica para zona del bigote.
+img: /u/tratamientos/depilacion-labio-superior-cera.jpg
 price: 6
 service_types:
 - Depilación labio superior cera
@@ -13,8 +13,9 @@ service_areas:
 category:
 - depilacion-cera-hilo
 rates: 'Precio: 6€'
-seo: Depilación labio superior con cera
-description: Elimina vello fino en segundos, dejando piel suave y sin residuo graso.
+seo:
+  title: Depilación labio superior con cera
+  desc: Elimina vello fino en segundos, dejando piel suave y sin residuo graso.
 weight: 40
 ---
 

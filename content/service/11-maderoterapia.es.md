@@ -1,8 +1,8 @@
 ---
 slug: maderoterapia
 title: Maderoterapia corporal
-summary: Masaje con utensilios de madera para modelar y activar microcirculación.
-image: tratamientos/maderoterapia.jpg
+sum: Masaje con utensilios de madera para modelar y activar microcirculación.
+img: /u/tratamientos/maderoterapia.jpg
 price: 50
 service_types:
 - Maderoterapia corporal
@@ -16,8 +16,9 @@ category:
 rates: |
   - Sesión suelta: 60€
   - Sesión en bono: 50€
-seo: Maderoterapia en Murcia – Takamaka
-description: Reduce celulitis y retención de líquidos de forma natural y relajante.
+seo:
+  title: Maderoterapia en Murcia – Takamaka
+  desc: Reduce celulitis y retención de líquidos de forma natural y relajante.
 weight: 11
 ---
 

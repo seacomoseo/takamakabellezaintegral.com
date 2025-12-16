@@ -1,6 +1,6 @@
 # takamakabellezaintegral.com
 
-[![takamakabellezaintegral.com](/assets/media/base/icon.svg)](https://takamakabellezaintegral.com/)
+[![takamakabellezaintegral.com](/uploads/base/icon.svg)](https://takamakabellezaintegral.com/)
 
 
 ## STEPS
@@ -21,7 +21,7 @@
     - `config.yml`
     - `data/*.{yml,md}`
   - IMG + LOGO + FAVICON
-    - `assets/media/` folder ⏩ [Compress image tool](https://compressor.io/)
+    - `uploads/` folder ⏩ [Compress image tool](https://compressor.io/)
       - `base/poster.svg`
       - `logo.svg`
       - `logo.png`
@@ -39,7 +39,7 @@
   - HTML: `data/config.yml ⏩ langs[*].html.{head,body}`
   - CSS: `assets/css/` ⏩ `{*,_variables-custom.scss,_custom.scss}`
   - JS: `assets/js/*,custom.js`
-  - IMG: `assets/media/*`
+  - IMG: `uploads/*`
   - REDIRECTS: `assets/redirects.md`
   - ROBOTS: `assets/robots.md`
   - If Multilanguaje and Multihosting, add `cp ./public/[es|en]/404.html ./public/` in `netlify.toml ⏩ build.command`
@@ -74,13 +74,13 @@
 
 - Add property
 - Verify versions ⏩ `data/config.yml`
-  - `google_analytics`
-  - `google_site_verification`
-  - `google_file_verification`
+  - `ga4`
+  - `g_site_verify`
+  - `g_file_verify`
   - DNS:
     From: `@`
     DNS Record: `TXT`
-    To: `google-site-verification=[google_site_verification]`
+    To: `google-site-verification=[g_site_verify]`
 - Link with Analytics
 - Add sitemap.xml
 

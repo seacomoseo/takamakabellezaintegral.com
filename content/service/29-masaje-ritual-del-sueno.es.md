@@ -1,8 +1,8 @@
 ---
 slug: masaje-ritual-del-sueno
 title: Masaje Ritual del Sueño
-summary: Masaje sensorial con aromaterapia y música binaural para descanso profundo.
-image: tratamientos/masaje-ritual-del-sueno.jpg
+sum: Masaje sensorial con aromaterapia y música binaural para descanso profundo.
+img: /u/tratamientos/masaje-ritual-del-sueno.jpg
 price: 130
 service_types:
 - Masaje Ritual del Sueño
@@ -13,8 +13,9 @@ service_areas:
 category:
 - rituales-masajes
 rates: 'Precio: 130€'
-seo: Masaje Ritual del Sueño en Takamaka
-description: Disminuye estrés y mejora calidad del sueño con mantras táctiles y aceites de lavanda.
+seo:
+  title: Masaje Ritual del Sueño en Takamaka
+  desc: Disminuye estrés y mejora calidad del sueño con mantras táctiles y aceites de lavanda.
 weight: 29
 ---
 

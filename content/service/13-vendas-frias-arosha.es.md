@@ -1,8 +1,8 @@
 ---
 slug: vendas-frias-arosha
 title: Vendas frías Arosha
-summary: Bendas impregnadas en activos criogénicos que combaten retención y celulitis.
-image: tratamientos/vendas-frias-arosha.jpg
+sum: Bendas impregnadas en activos criogénicos que combaten retención y celulitis.
+img: /u/tratamientos/vendas-frias-arosha.jpg
 price: 60
 service_types:
 - Vendas frías Arosha
@@ -31,8 +31,9 @@ rates: |
   - **NIO DRAIN**
     - Sesión suelta: 65€
     - Sesión en bono: 60€
-seo: Vendas frías Arosha en Takamaka
-description: Efecto “ice” que reactiva circulación y aporta ligereza en una sesión de 45 min.
+seo:
+  title: Vendas frías Arosha en Takamaka
+  desc: Efecto “ice” que reactiva circulación y aporta ligereza en una sesión de 45 min.
 weight: 13
 ---
 

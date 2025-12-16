@@ -3,11 +3,11 @@ base: page
 weight: 2
 tax_of:
 - name: service
-  multiple: y
-  breadcrumbs: y
+  multi: y
+  crumbs: y
 - name: category
-  multiple: y
-  breadcrumbs: y
+  multi: y
+  crumbs: y
 tpl:
   callnow: auto
   sections:
@@ -17,13 +17,13 @@ tpl:
   - file: base-children
   - file: tratamientos-cita
   - file: base-share
-  - file: base-related
+  - file: base-rel
   list:
     rate: 3/4
     card: y
     color: dark
     fade: main
-    fade_type: linear-t
+    fade_to: t
     shade: n
     icon: hide
     price: hide

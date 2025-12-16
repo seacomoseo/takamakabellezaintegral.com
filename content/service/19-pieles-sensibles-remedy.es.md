@@ -1,8 +1,8 @@
 ---
 slug: pieles-sensibles-remedy
 title: Remedy piel sensible
-summary: Tratamiento calmante con prebióticos que reduce rojeces y picor.
-image: tratamientos/pieles-sensibles-remedy.jpg
+sum: Tratamiento calmante con prebióticos que reduce rojeces y picor.
+img: /u/tratamientos/pieles-sensibles-remedy.jpg
 price: 85
 service_types:
 - Remedy piel sensible
@@ -13,8 +13,9 @@ service_areas:
 category:
 - facial
 rates: 'Precio sesión: 85€'
-seo: Tratamiento piel sensible Remedy – Takamaka
-description: Reequilibra microbiota y fortifica la barrera cutánea en una sola sesión sin irritación.
+seo:
+  title: Tratamiento piel sensible Remedy – Takamaka
+  desc: Reequilibra microbiota y fortifica la barrera cutánea en una sola sesión sin irritación.
 weight: 19
 ---
 

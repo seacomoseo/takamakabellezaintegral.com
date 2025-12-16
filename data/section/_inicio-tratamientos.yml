@@ -1,9 +1,9 @@
 name: Inicio ➡️ Tratamientos
-title: Tratamientos
-# subtitle: Lo que hacemos
-list:
-  type: category
-  category:
-  - general
-box:
-  cols: 4
+boxes:
+- title: Tratamientos
+  list:
+    type: category
+    category:
+    - general
+  box:
+    cols: 4
